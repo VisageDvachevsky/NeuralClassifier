@@ -1,0 +1,5 @@
+text,intent,language
+hi,greet,
+How have you been?,greet,
+привет,greet,
+сколько время,get_time,

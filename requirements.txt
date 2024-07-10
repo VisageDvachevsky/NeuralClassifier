@@ -1,0 +1,14 @@
+pandas
+scikit-learn
+torch
+transformers
+nltk
+faker
+numpy
+googletrans==4.0.0-rc1
+tqdm
+httpx
+accelerate
+schedule
+pytorch-forecasting
+numba
