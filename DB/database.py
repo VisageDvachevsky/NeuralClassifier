@@ -1,7 +1,7 @@
 import sqlite3
 
 def create_database():
-    conn = sqlite3.connect('./Dataset/Resources/responses.db')
+    conn = sqlite3.connect('../Dataset/Resources/responses.db')
     c = conn.cursor()
     c.execute('''
         CREATE TABLE IF NOT EXISTS responses (
