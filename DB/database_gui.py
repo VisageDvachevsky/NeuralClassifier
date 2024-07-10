@@ -44,7 +44,7 @@ class DatabaseManager:
         for i in self.tree.get_children():
             self.tree.delete(i)
 
-        conn = sqlite3.connect('../Dataset/Resources/responses.db')
+        conn = sqlite3.connect('responses.db')
         c = conn.cursor()
         c.execute("SELECT * FROM responses")
         rows = c.fetchall()
@@ -58,7 +58,7 @@ class DatabaseManager:
             messagebox.showwarning("No selection", "Please select an item to delete")
             return
 
-        conn = sqlite3.connect('../Dataset/Resources/responses.db')
+        conn = sqlite3.connect('responses.db')
         c = conn.cursor()
         for item in selected_item:
             item_id = self.tree.item(item, 'values')[0]

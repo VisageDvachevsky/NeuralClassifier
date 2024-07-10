@@ -41,7 +41,7 @@ class AssistantManager:
 
         self.intent_recognizer.train(train_dataset, val_dataset, resume_from_checkpoint=None)
 
-    def sample_and_save_data(self, sample_size=0.1, db_path='./Dataset/Resources/responses.db', original_file_path='./Dataset/Resources/_dataset/dataset.csv', output_file_path='./Dataset/Resources/_dataset/new_dataset.csv'):
+    def sample_and_save_data(self, sample_size=0.1, db_path='./DB/responses.db', original_file_path='./Dataset/Resources/_dataset/dataset.csv', output_file_path='./Dataset/Resources/_dataset/new_dataset.csv'):
         sample_df = self.data_preprocessor.sample_data(file_path=original_file_path, sample_size=sample_size)
         
         conn = sqlite3.connect(db_path)
@@ -67,7 +67,7 @@ class AssistantManager:
         evaluation_results = self.intent_recognizer.evaluate(val_dataset)
         return evaluation_results
 
-    def fetch_misclassified_examples(self, db_path='./Dataset/Resources/responses.db'):
+    def fetch_misclassified_examples(self, db_path='./DB/responses.db'):
         conn = sqlite3.connect(db_path)
         c = conn.cursor()
         c.execute('''
