@@ -13,7 +13,8 @@ def organize_into_root(root_dir):
 
     print("Original directory structure:")
     print(root_dir)
+    print(print_directory_structure(root_dir))
 
 
 if __name__ == "__main__":
-    organize_into_root("../../NeuralAnalyzer")
+    organize_into_root("../../NeuralClassifier/")
