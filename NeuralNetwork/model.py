@@ -61,7 +61,7 @@ class IntentRecognizer:
         return metrics
 
     def train(self, train_dataset, val_dataset, resume_from_checkpoint=None):
-        output_dir = '../results'
+        output_dir = 'results'
         os.makedirs(output_dir, exist_ok=True)
         
         training_args = TrainingArguments(
@@ -71,7 +71,7 @@ class IntentRecognizer:
             per_device_eval_batch_size=4,
             warmup_steps=500,
             weight_decay=0.01,
-            logging_dir='../logs',
+            logging_dir='logs',
             logging_steps=10,
             evaluation_strategy="epoch",
             dataloader_num_workers=4,

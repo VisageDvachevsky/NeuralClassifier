@@ -12,3 +12,4 @@ accelerate
 schedule
 pytorch-forecasting
 numba
+langdetect

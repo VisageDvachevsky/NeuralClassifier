@@ -7,7 +7,7 @@ class DataPreprocessor:
     def __init__(self):
         self.tokenizer = XLMRobertaTokenizer.from_pretrained('xlm-roberta-base')
 
-    def prepare_data(self, file_path='../Dataset/Resources/_dataset/dataset.csv', feedback_data=None):
+    def prepare_data(self, file_path='./Dataset/Resources/_dataset/dataset.csv', feedback_data=None):
         df = pd.read_csv(file_path)
 
         if feedback_data:
@@ -32,7 +32,7 @@ class DataPreprocessor:
         except:
             return 'unknown'
 
-    def sample_data(self, file_path='../Dataset/Resources/_dataset/dataset.csv', sample_size=0.1):
+    def sample_data(self, file_path='./Dataset/Resources/_dataset/dataset.csv', sample_size=0.1):
         df = pd.read_csv(file_path)
         sample_df = df.sample(frac=sample_size)
         return sample_df

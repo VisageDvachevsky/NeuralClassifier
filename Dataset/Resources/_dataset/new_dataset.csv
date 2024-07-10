@@ -1,5 +1,5 @@
 text,intent,language
 hi,greet,
 How have you been?,greet,
-привет,greet,
-сколько время,get_time,
+What's happening?,greet,en
+Darf ich nach der Uhrzeit fragen?,get_time,de
