@@ -1,5 +1,5 @@
 results/
-
 env.py
-model/model.safetensors
 responses.db
+*.safetensors
+/model

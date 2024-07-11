@@ -98,6 +98,8 @@ class IntentRecognizer:
         self.tokenizer.save_pretrained(output_dir)
         self.trainer = trainer
 
+        save_model(self.model, self.tokenizer, output_dir)
+
     def evaluate(self, val_dataset):
         return self.trainer.evaluate(eval_dataset=val_dataset)
 
@@ -132,3 +134,8 @@ class IntentRecognizer:
         if confidence < threshold:
             return None, confidence
         return predicted_class_id, confidence
+
+def save_model(model, tokenizer, save_directory):
+    model.save_pretrained(save_directory)
+    tokenizer.save_pretrained(save_directory)
+    print(f"Model and tokenizer saved to {save_directory}")
