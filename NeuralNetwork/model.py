@@ -1,6 +1,6 @@
 import torch
 from torch.utils.data import DataLoader, Dataset
-from transformers import BertForSequenceClassification, BertTokenizer, XLMRobertaForSequenceClassification, XLMRobertaTokenizer, Trainer, TrainingArguments
+from transformers import Trainer, TrainingArguments, XLMRobertaForSequenceClassification, XLMRobertaTokenizer
 from sklearn.metrics import accuracy_score, precision_recall_fscore_support, confusion_matrix, roc_auc_score, matthews_corrcoef
 import numpy as np
 import os
@@ -95,17 +95,30 @@ class IntentRecognizer:
             trainer.train()
 
         trainer.save_model(output_dir)
+        self.tokenizer.save_pretrained(output_dir)
         self.trainer = trainer
 
     def evaluate(self, val_dataset):
         return self.trainer.evaluate(eval_dataset=val_dataset)
 
     def load_model(self, checkpoint_path, tokenizer_name=None):
-        self.model = XLMRobertaForSequenceClassification.from_pretrained(checkpoint_path).to(self.device)
+        if not os.path.exists(checkpoint_path):
+            raise FileNotFoundError(f"The specified checkpoint path '{checkpoint_path}' does not exist.")
+
         if tokenizer_name:
-            self.tokenizer = XLMRobertaTokenizer.from_pretrained(tokenizer_name)
+            tokenizer_path = os.path.join(checkpoint_path, tokenizer_name)
         else:
-            self.tokenizer = XLMRobertaTokenizer.from_pretrained(self.model_name)
+            tokenizer_path = checkpoint_path
+
+        self.tokenizer = XLMRobertaTokenizer.from_pretrained(tokenizer_path)
+
+        model_path = os.path.join(checkpoint_path, 'model.safetensors')
+        if not os.path.exists(model_path):
+            raise FileNotFoundError(f"The specified model file '{model_path}' does not exist.")
+
+        self.model = XLMRobertaForSequenceClassification.from_pretrained(checkpoint_path)
+        self.model.load_state_dict(torch.load(model_path, map_location=self.device))
+        self.model.to(self.device)
         self.model.eval()
 
     def recognize_intent(self, text, threshold=0.5):

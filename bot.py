@@ -3,9 +3,11 @@ from TGManager import TelegramAssistantManager
 from telebot import types
 from env import token
 
+# Replace 'YOUR_BOT_TOKEN' with your actual bot token
 bot = telebot.TeleBot(token)
 
-model_dir = './model'
+# Initialize the TelegramAssistantManager
+model_dir = ''  # Adjust the path as needed
 assistant_manager = TelegramAssistantManager(model_dir=model_dir)
 
 @bot.message_handler(commands=['start', 'help'])
@@ -21,6 +23,7 @@ def handle_message(message):
     response, confidence, intent = assistant_manager.process_input(user_input)
     bot.reply_to(message, f"Response: {response}\nConfidence: {confidence:.2f}\nIntent: {intent}")
 
+    # Ask for feedback
     msg = bot.reply_to(message, "Please rate the response (1-5):")
     bot.register_next_step_handler(msg, lambda msg: save_feedback(msg, user_input, response, intent, confidence))
 
