@@ -1,7 +1,8 @@
 import torch
 from torch.utils.data import DataLoader, Dataset
-from transformers import BertForSequenceClassification, BertTokenizer, XLMRobertaForSequenceClassification, XLMRobertaTokenizer, Trainer, TrainingArguments
+from transformers import Trainer, TrainingArguments, XLMRobertaForSequenceClassification, XLMRobertaTokenizer
 from sklearn.metrics import accuracy_score, precision_recall_fscore_support, confusion_matrix, roc_auc_score, matthews_corrcoef
+from safetensors.torch import load_file as load_safetensors
 import numpy as np
 import os
 
@@ -66,7 +67,7 @@ class IntentRecognizer:
         
         training_args = TrainingArguments(
             output_dir=output_dir,
-            num_train_epochs=4,
+            num_train_epochs=16,
             per_device_train_batch_size=4,
             per_device_eval_batch_size=4,
             warmup_steps=500,
@@ -93,19 +94,31 @@ class IntentRecognizer:
             trainer.train(resume_from_checkpoint=resume_from_checkpoint)
         else:
             trainer.train()
-
-        trainer.save_model(output_dir)
-        self.trainer = trainer
+            
+        save_model(self.model, self.tokenizer, output_dir)
 
     def evaluate(self, val_dataset):
         return self.trainer.evaluate(eval_dataset=val_dataset)
 
     def load_model(self, checkpoint_path, tokenizer_name=None):
-        self.model = XLMRobertaForSequenceClassification.from_pretrained(checkpoint_path).to(self.device)
+        if not os.path.exists(checkpoint_path):
+            raise FileNotFoundError(f"The specified checkpoint path '{checkpoint_path}' does not exist.")
+
         if tokenizer_name:
-            self.tokenizer = XLMRobertaTokenizer.from_pretrained(tokenizer_name)
+            tokenizer_path = os.path.join(checkpoint_path, tokenizer_name)
         else:
-            self.tokenizer = XLMRobertaTokenizer.from_pretrained(self.model_name)
+            tokenizer_path = checkpoint_path
+
+        self.tokenizer = XLMRobertaTokenizer.from_pretrained(tokenizer_path)
+
+        model_safetensors_path = os.path.join(checkpoint_path, 'model.safetensors')
+        if not os.path.exists(model_safetensors_path):
+            raise FileNotFoundError(f"The specified model file '{model_safetensors_path}' does not exist.")
+
+        self.model = XLMRobertaForSequenceClassification.from_pretrained(checkpoint_path)
+        state_dict = load_safetensors(model_safetensors_path, device='cpu')
+        self.model.load_state_dict(state_dict, strict=False)  
+        self.model.to(self.device)
         self.model.eval()
 
     def recognize_intent(self, text, threshold=0.5):
@@ -119,3 +132,8 @@ class IntentRecognizer:
         if confidence < threshold:
             return None, confidence
         return predicted_class_id, confidence
+
+def save_model(model, tokenizer, save_directory):
+    model.save_pretrained(save_directory)
+    tokenizer.save_pretrained(save_directory)
+    print(f"Model and tokenizer saved to {save_directory}")

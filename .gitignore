@@ -1,1 +1,7 @@
 results/
+env.py
+responses.db
+*.safetensors
+/model
+/logs
+/__pycache__
