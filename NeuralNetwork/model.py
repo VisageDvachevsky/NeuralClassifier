@@ -2,6 +2,7 @@ import torch
 from torch.utils.data import DataLoader, Dataset
 from transformers import Trainer, TrainingArguments, XLMRobertaForSequenceClassification, XLMRobertaTokenizer
 from sklearn.metrics import accuracy_score, precision_recall_fscore_support, confusion_matrix, roc_auc_score, matthews_corrcoef
+from safetensors.torch import load_file as load_safetensors
 import numpy as np
 import os
 
@@ -66,7 +67,7 @@ class IntentRecognizer:
         
         training_args = TrainingArguments(
             output_dir=output_dir,
-            num_train_epochs=4,
+            num_train_epochs=16,
             per_device_train_batch_size=4,
             per_device_eval_batch_size=4,
             warmup_steps=500,
@@ -93,11 +94,7 @@ class IntentRecognizer:
             trainer.train(resume_from_checkpoint=resume_from_checkpoint)
         else:
             trainer.train()
-
-        trainer.save_model(output_dir)
-        self.tokenizer.save_pretrained(output_dir)
-        self.trainer = trainer
-
+            
         save_model(self.model, self.tokenizer, output_dir)
 
     def evaluate(self, val_dataset):
@@ -114,12 +111,13 @@ class IntentRecognizer:
 
         self.tokenizer = XLMRobertaTokenizer.from_pretrained(tokenizer_path)
 
-        model_path = os.path.join(checkpoint_path, 'model.safetensors')
-        if not os.path.exists(model_path):
-            raise FileNotFoundError(f"The specified model file '{model_path}' does not exist.")
+        model_safetensors_path = os.path.join(checkpoint_path, 'model.safetensors')
+        if not os.path.exists(model_safetensors_path):
+            raise FileNotFoundError(f"The specified model file '{model_safetensors_path}' does not exist.")
 
         self.model = XLMRobertaForSequenceClassification.from_pretrained(checkpoint_path)
-        self.model.load_state_dict(torch.load(model_path, map_location=self.device))
+        state_dict = load_safetensors(model_safetensors_path, device='cpu')
+        self.model.load_state_dict(state_dict, strict=False)  
         self.model.to(self.device)
         self.model.eval()
 

@@ -32,6 +32,7 @@
   "output_past": true,
   "pad_token_id": 1,
   "position_embedding_type": "absolute",
+  "problem_type": "single_label_classification",
   "torch_dtype": "float32",
   "transformers_version": "4.41.2",
   "type_vocab_size": 1,

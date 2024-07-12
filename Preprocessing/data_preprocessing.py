@@ -7,8 +7,14 @@ class DataPreprocessor:
     def __init__(self):
         self.tokenizer = XLMRobertaTokenizer.from_pretrained('xlm-roberta-base')
 
-    def prepare_data(self, file_path='./Dataset/Resources/_dataset/dataset.csv', feedback_data=None):
-        df = pd.read_csv(file_path)
+    def prepare_data(self, file_path='../Dataset/Resources/_dataset/dataset.csv', feedback_data=None):
+        if file_path is not None:
+            df = pd.read_csv(file_path)
+        elif feedback_data is not None:
+            df = pd.DataFrame(feedback_data, columns=["text", "intent", "confidence", "rating"])
+            df = df[["text", "intent"]]
+        else:
+            raise ValueError("Either file_path or feedback_data must be provided")
 
         if feedback_data:
             feedback_df = pd.DataFrame(feedback_data, columns=["text", "intent", "confidence", "rating"])
@@ -36,4 +42,3 @@ class DataPreprocessor:
         df = pd.read_csv(file_path)
         sample_df = df.sample(frac=sample_size)
         return sample_df
-

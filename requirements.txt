@@ -13,3 +13,4 @@ schedule
 pytorch-forecasting
 numba
 langdetect
+safetensors
