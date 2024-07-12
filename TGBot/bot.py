@@ -7,10 +7,9 @@ from DB.database import save_rating, create_database
 from env import TELEGRAM_BOT_API_KEY
 import threading
 
-# Настройка логирования
 logging.basicConfig(
     level=logging.INFO,
-    format='%(asctime)s - %(name)s - %(levellevel)s - %(message)s'
+    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s'
 )
 logger = logging.getLogger(__name__)
 
@@ -35,8 +34,8 @@ class TelegramBot:
                 self.bot.reply_to(
                     message,
                     "Напишите сообщение, чтобы начать. "
-                    "Используйте /help для списка доступных команд."
-                    "\n\n\nВерсия: alpha 0.1"
+                    "Используйте /help для списка доступных команд.\n"
+                    "Версия: alpha:0.1"
                 )
             except Exception as e:
                 self.handle_error(message, e)
