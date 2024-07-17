@@ -5,3 +5,4 @@ responses.db
 /model
 /logs
 /__pycache__
+/model
