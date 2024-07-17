@@ -14,7 +14,8 @@
     "0": "LABEL_0",
     "1": "LABEL_1",
     "2": "LABEL_2",
-    "3": "LABEL_3"
+    "3": "LABEL_3",
+    "4": "LABEL_4"
   },
   "initializer_range": 0.02,
   "intermediate_size": 3072,
@@ -22,7 +23,8 @@
     "LABEL_0": 0,
     "LABEL_1": 1,
     "LABEL_2": 2,
-    "LABEL_3": 3
+    "LABEL_3": 3,
+    "LABEL_4": 4
   },
   "layer_norm_eps": 1e-05,
   "max_position_embeddings": 514,

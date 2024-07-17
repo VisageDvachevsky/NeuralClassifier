@@ -22,6 +22,7 @@ class DataPreprocessor:
             df = pd.concat([df, feedback_df], ignore_index=True)
         
         df['language'] = df['text'].apply(self.detect_language)
+        
         label_to_id = {label: idx for idx, label in enumerate(df['intent'].unique())}
         df['label_id'] = df['intent'].map(label_to_id)
 
@@ -40,5 +41,5 @@ class DataPreprocessor:
 
     def sample_data(self, file_path='./Dataset/Resources/_dataset/dataset.csv', sample_size=0.1):
         df = pd.read_csv(file_path)
-        sample_df = df.sample(frac=sample_size)
+        sample_df = df.sample(frac=sample_size, random_state=42)
         return sample_df

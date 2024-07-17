@@ -5,6 +5,10 @@ def combine_json_files(json_files, output_file):
     combined_data = {}
 
     for json_file in json_files:
+        if not os.path.isfile(json_file):
+            print(f"Error: {json_file} does not exist. Please check the file name and path.")
+            return
+
         with open(json_file, 'r', encoding='utf-8') as file:
             data = json.load(file)
             for key, value in data.items():
@@ -26,11 +30,16 @@ def combine_json_files(json_files, output_file):
 
 if __name__ == "__main__":
     json_files = []
+    base_dir = os.path.join("Resources", "_dataset.assets")
+    
     for i in range(3):
         json_file = input(f"Enter the name of JSON file {i+1}: ")
-        json_files.append(json_file)
+        full_path = os.path.join(base_dir, json_file)
+        if not os.path.isfile(full_path):
+            print(f"Error: {full_path} does not exist. Please check the file name and path.")
+        json_files.append(full_path)
 
-    output_file = os.path.join("Resources", "_dataset.assets", input("Enter the name of the final JSON file: "))
+    output_file = os.path.join(base_dir, input("Enter the name of the final JSON file: "))
 
     combine_json_files(json_files, output_file)
     print(f"Combined JSON saved to {output_file}")

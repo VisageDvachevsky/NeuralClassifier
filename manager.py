@@ -1,4 +1,5 @@
 import sqlite3
+import pandas as pd
 from Preprocessing.data_preprocessing import DataPreprocessor
 from NeuralNetwork.model import IntentRecognizer, IntentDataset
 from torch.utils.data import DataLoader
@@ -32,27 +33,24 @@ class AssistantManager:
 
     def load_and_retrain(self, checkpoint_path, new_dataset):
         self.intent_recognizer.load_model(checkpoint_path, tokenizer_name='xlm-roberta-base')
-        
-        feedback_data = fetch_feedback()
-        train_encodings, val_encodings, train_labels, val_labels, label_to_id = self.data_preprocessor.prepare_data(feedback_data=feedback_data, file_path=new_dataset)
-
+        train_encodings, val_encodings, train_labels, val_labels, label_to_id = self.data_preprocessor.prepare_data(file_path=new_dataset)
         train_dataset = IntentDataset(train_encodings, train_labels)
         val_dataset = IntentDataset(val_encodings, val_labels)
+        self.intent_recognizer.train(train_dataset, val_dataset, resume_from_checkpoint=None)
+        self.evaluate_model(val_dataset)
 
         self.intent_recognizer.train(train_dataset, val_dataset, resume_from_checkpoint=None)
 
-    def sample_and_save_data(self, sample_size=0.1, db_path='./DB/responses.db', original_file_path='./Dataset/Resources/_dataset/dataset.csv', output_file_path='./Dataset/Resources/_dataset/new_dataset.csv'):
+    def sample_and_save_data(self, sample_size=0.5, db_path='./DB/responses.db', original_file_path='./Dataset/Resources/_dataset/dataset.csv', output_file_path='./Dataset/Resources/_dataset/new_dataset.csv'):
         sample_df = self.data_preprocessor.sample_data(file_path=original_file_path, sample_size=sample_size)
-        
         conn = sqlite3.connect(db_path)
         all_data_df = pd.read_sql_query("SELECT user_input AS text, expected_intent AS intent FROM responses", conn)
         conn.close()
-
         combined_df = pd.concat([sample_df, all_data_df], ignore_index=True)
-
         combined_df.to_csv(output_file_path, index=False)
-
         print(f"Sampled data saved successfully to {output_file_path}!")
+        self.check_data_distribution(combined_df, "Combined Dataset")
+
 
     def process_input(self, user_input):
         intent_id, confidence = self.intent_recognizer.recognize_intent(user_input)
@@ -85,3 +83,8 @@ class AssistantManager:
 
         encodings = tokenizer(texts, truncation=True, padding=True)
         return encodings, labels
+
+    def check_data_distribution(self, df, title):
+        print(f"Data distribution for {title}:")
+        print(df['intent'].value_counts(normalize=True))
+        print()
