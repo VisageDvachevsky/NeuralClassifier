@@ -9,6 +9,10 @@ class ResponseGenerator:
             return "I'm not sure what you want. Can you please clarify?"
 
         intent = self.intent_labels[intent_id]
+
+        if intent == 'No Intent':
+            return "It seems like your request is unclear or unrelated to any known intents. Could you please provide more information?"
+
         response = self.generate_response(intent)
         
         if confidence < threshold:
@@ -37,4 +41,3 @@ class ResponseGenerator:
         now = datetime.now()
         current_date = now.strftime("%Y-%m-%d")
         return f"Today's date is {current_date}"
-

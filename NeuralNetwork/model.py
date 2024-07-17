@@ -5,6 +5,7 @@ from sklearn.metrics import accuracy_score, precision_recall_fscore_support, con
 from safetensors.torch import load_file as load_safetensors
 import numpy as np
 import os
+import torch.nn.functional as F
 
 class IntentDataset(Dataset):
     def __init__(self, encodings, labels):
@@ -20,11 +21,13 @@ class IntentDataset(Dataset):
         return len(self.labels)
 
 class IntentRecognizer:
-    def __init__(self, num_labels, model_name='xlm-roberta-base'):
+    def __init__(self, num_labels, model_name='xlm-roberta-base', temperature=1.0, num_mc_samples=10):
         self.device = torch.device('cuda') if torch.cuda.is_available() else torch.device('cpu')
         self.model_name = model_name
         self.model = XLMRobertaForSequenceClassification.from_pretrained(model_name, num_labels=num_labels).to(self.device)
         self.tokenizer = XLMRobertaTokenizer.from_pretrained(model_name)
+        self.temperature = temperature
+        self.num_mc_samples = num_mc_samples
 
     def compute_metrics(self, pred):
         labels = pred.label_ids
@@ -66,8 +69,8 @@ class IntentRecognizer:
         os.makedirs(output_dir, exist_ok=True)
         
         training_args = TrainingArguments(
-            output_dir=output_dir,
-            num_train_epochs=16,
+            output_dir='results',
+            num_train_epochs=8,  
             per_device_train_batch_size=4,
             per_device_eval_batch_size=4,
             warmup_steps=500,
@@ -75,11 +78,10 @@ class IntentRecognizer:
             logging_dir='logs',
             logging_steps=10,
             evaluation_strategy="epoch",
-            dataloader_num_workers=4,
-            fp16=False,
-            save_strategy="steps",
+            save_strategy="epoch",
             save_steps=1000,
-            save_total_limit=25
+            save_total_limit=2,
+            learning_rate=3e-5,  
         )
 
         trainer = Trainer(
@@ -95,10 +97,13 @@ class IntentRecognizer:
         else:
             trainer.train()
             
-        save_model(self.model, self.tokenizer, output_dir)
+        self.save_model(self.model, self.tokenizer, output_dir)
 
-    def evaluate(self, val_dataset):
-        return self.trainer.evaluate(eval_dataset=val_dataset)
+    def evaluate_model(intent_recognizer, val_dataset):
+        results = intent_recognizer.trainer.evaluate(eval_dataset=val_dataset)
+        print("Evaluation results:", results)
+        return results
+
 
     def load_model(self, checkpoint_path, tokenizer_name=None):
         if not os.path.exists(checkpoint_path):
@@ -109,7 +114,7 @@ class IntentRecognizer:
         else:
             tokenizer_path = checkpoint_path
 
-        self.tokenizer = XLMRobertaTokenizer.from_pretrained(tokenizer_path)
+        # self.tokenizer = XLMRobertaTokenizer.from_pretrained(tokenizer_path)
 
         model_safetensors_path = os.path.join(checkpoint_path, 'model.safetensors')
         if not os.path.exists(model_safetensors_path):
@@ -123,17 +128,25 @@ class IntentRecognizer:
 
     def recognize_intent(self, text, threshold=0.5):
         encodings = self.tokenizer(text, truncation=True, padding=True, return_tensors="pt").to(self.device)
+        logits_list = []
+
+        self.model.eval()  
+
         with torch.no_grad():
-            outputs = self.model(**{k: v.to(self.device) for k, v in encodings.items()})
-        logits = outputs.logits
-        predicted_class_id = logits.argmax().item()
-        confidence = torch.nn.functional.softmax(logits, dim=1)[0, predicted_class_id].item()
-        
+            for _ in range(self.num_mc_samples):
+                outputs = self.model(**{k: v.to(self.device) for k, v in encodings.items()})
+                logits_list.append(outputs.logits.unsqueeze(0))
+
+        logits = torch.cat(logits_list, dim=0)
+        logits_mean = logits.mean(dim=0) / self.temperature
+        predicted_class_id = logits_mean.argmax().item()
+        confidence = F.softmax(logits_mean, dim=1)[0, predicted_class_id].item()
+
         if confidence < threshold:
             return None, confidence
         return predicted_class_id, confidence
 
-def save_model(model, tokenizer, save_directory):
-    model.save_pretrained(save_directory)
-    tokenizer.save_pretrained(save_directory)
-    print(f"Model and tokenizer saved to {save_directory}")
+    def save_model(self, model, tokenizer, save_directory):
+        model.save_pretrained(save_directory)
+        tokenizer.save_pretrained(save_directory)
+        print(f"Model and tokenizer saved to {save_directory}")

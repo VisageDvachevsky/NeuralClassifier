@@ -1,5 +1,2533 @@
 text,intent,language
-hi,greet,
-How have you been?,greet,
+qV6UeipXGY2fisAT7hgXDGPW91wmXu1kCMjHIjvEZydzwCpDZrcqKasTu7mlZ8g,No Intent,unknown
+VqxO1Y5S1PEQvZycldVEOKj1vtX0JSCfPh8SK44hdn6mX8VoUOxAbNWGlV64TFF6Jt63g,No Intent,unknown
+Dhj7LdRTzvGIQcFMCaciMKVug5rK2iwoBU5MJWGyv45eN5RL8ByAzgqV3fpskL8itFR9xe4Zhp9LAR2BiqQCFpnBCQUIxJ,No Intent,unknown
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.,No Intent,unknown
+The quick brown fox jumps over the lazy dog.,No Intent,unknown
+1339087700017442,No Intent,unknown
+unknown:Adios!,goodbye,unknown
+She sells seashells by the seashore.,No Intent,unknown
+Was ist los?,greet,en
+3089587136067,No Intent,unknown
+Could you share today's date information with me?,get_date,en
+Würden Sie mir das heutige Datum verraten?,get_date,de
+Can you clue me in on the time right now?,get_time,en
+76547760763,No Intent,unknown
+Grüße!,greet,de
+"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",No Intent,unknown
+Не могли бы вы просветить меня на сегодняшнюю дату?,get_date,ru
+Darf ich Sie um die aktuelle Uhrzeit bitten?,get_time,de
+Any idea what time it is right now?,get_time,en
+The quick brown fox jumps over the lazy dog.,No Intent,unknown
+All work and no play makes Jack a dull boy.,No Intent,unknown
+unknown:So long!,goodbye,unknown
+Peace and love!,goodbye,en
+"Hey, wie geht es dir?",greet,de
+Could you please inform me of the time?,get_time,en
+"Hey, what's going on?",greet,en
+DesP7jPGT9WFvXW2Idcamo26a9EOSazorc2HmOeEFRWr4KRETiQlnLMW5r,No Intent,unknown
+unknown:Cheers!,goodbye,unknown
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.,No Intent,unknown
+unknown:What's today's date looking like?,get_date,unknown
+"To be or not to be, that is the question.",No Intent,unknown
+HCFPxsdKQaFX0skjV721L4pb8fO3ag6KYCuMIckciuP7e3b85JbIyocIvyiSyGgrzYIHAgJG,No Intent,unknown
+09035171586088227893,No Intent,unknown
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.,No Intent,unknown
+Good morning!,greet,en
+What's the time according to your watch?,get_time,en
+Не могли бы вы проинформировать меня о текущем времени?,get_time,ru
+How are you holding up?,greet,en
+Any chance you could tell me today's date?,get_date,en
+Könnten Sie mich bitte über die Uhrzeit informieren?,get_time,de
+"Hallo, wie läuft dein Tag?",greet,de
+Any updates on today's date?,get_date,en
+"Wie ist das aktuelle Datum, wenn ich fragen darf?",get_date,de
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",No Intent,unknown
+Was ist los?,greet,en
+"Можете ли вы, пожалуйста, сообщить мне время?",get_time,ru
+"To be or not to be, that is the question.",No Intent,unknown
+33203,No Intent,unknown
+476819343038,No Intent,unknown
+The quick brown fox jumps over the lazy dog.,No Intent,unknown
+Ta-ta for now!,goodbye,en
+9820637864732,No Intent,unknown
+To infinity and beyond!,goodbye,en
+34931976506789103,No Intent,unknown
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",No Intent,unknown
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.,No Intent,unknown
+0662636,No Intent,unknown
+All work and no play makes Jack a dull boy.,No Intent,unknown
+Alles Gute!,goodbye,fr
+Would you kindly let me know the time?,get_time,en
+"unknown:Bis später, Krokodil!",goodbye,unknown
+654407999,No Intent,unknown
+Any chance you know what time it is?,get_time,en
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.,No Intent,unknown
+unknown:Until next time!,goodbye,unknown
+"So long, farewell!",goodbye,en
+She sells seashells by the seashore.,No Intent,unknown
+"Можете ли вы уточнить, какая сегодня дата?",get_date,ru
+unknown:Stay safe!,goodbye,unknown
 What's happening?,greet,en
+"Haben Sie einen Moment, um mir die Uhrzeit zu sagen?",get_time,de
+52858329614,No Intent,unknown
+8252716802,No Intent,unknown
+Könnten Sie mir bitte das heutige Datum angeben?,get_date,de
+What's the current time on your end?,get_time,en
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+Can you tell me what time it is now?,get_time,en
+"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",No Intent,unknown
+"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",No Intent,unknown
+She sells seashells by the seashore.,No Intent,unknown
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+Оставайтесь на связи!,goodbye,ru
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.,No Intent,unknown
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.,No Intent,unknown
+"Не знаете ли вы, который час сейчас?",get_time,ru
+"Haben Sie eine Idee, welches Datum heute ist?",get_date,de
+У вас есть сегодняшняя дата под рукой?,get_date,ru
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.,No Intent,unknown
+"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",No Intent,unknown
+13vmtFgiRV5T0lEUPCAe1MfhJsxHdVGtA0JGsnTqD5ATFpm6,No Intent,unknown
+64793,No Intent,unknown
+Können Sie mir das Datum für heute mitteilen?,get_date,de
+What's good?,greet,en
+3qtKidEMfte12bU46nrYXoJHwjPgd63IPHr84hOSwwLt0HdG20qFpmouY2ZHFvzKbBB16hoNlh5GduAO3gUAGFOkM60y,No Intent,unknown
+HVULFoMMSlp2l7IdIAsUC6tH6dh2q88fj02yioKBGWLtm6Be9G99jMlEFURZBrFMRn0Hbi286gA8jJax86L,No Intent,unknown
+Can you tell me what time it is now?,get_time,en
+The quick brown fox jumps over the lazy dog.,No Intent,unknown
+"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",No Intent,unknown
+09035171586088227893,No Intent,unknown
+291390605,No Intent,unknown
+"Можете ли вы рассказать мне время, пожалуйста?",get_time,ru
+809380666363327,No Intent,unknown
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.,No Intent,unknown
+291390605,No Intent,unknown
+Добрый день!,greet,ru
+C0eYpOTBzzj73vwfprBehEXV0PSd1Bcyq2WphSTVeQkd54f23RQDVflrCR6camm9w4oQupr5DFhnye,No Intent,unknown
+0662636,No Intent,unknown
+"To be or not to be, that is the question.",No Intent,unknown
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.,No Intent,unknown
+"unknown:Hallo, wie geht es dir gerade?",greet,unknown
+All work and no play makes Jack a dull boy.,No Intent,unknown
+58658303876673266,No Intent,unknown
+"Hey, was gibt's Neues?",greet,en
+65135406,No Intent,unknown
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+MR3m72tUhv6h11aT2NqlT2xFh1qF9uY8eRpe9VjbkcVtJldXmp32noizhTGpFICyiJiledNVTP4hSLdH6jamcgaavWnPVh,No Intent,unknown
+4794214,No Intent,unknown
+The quick brown fox jumps over the lazy dog.,No Intent,unknown
+rxtDq0HM4EqkPKqSHQFREm6rlZt2hfvG8Q5TPlJN0rxwSDA6ws4RcXBEiE6GtzQSjDPfcXDb2PX6yXuuBi50huzm6Ul3jnPT,No Intent,unknown
+150478225387200283,No Intent,unknown
+Можете ли вы сообщить мне сегодняшнюю дату?,get_date,ru
+"Hallo, wie geht es dir?",greet,de
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.,No Intent,unknown
+73987693531,No Intent,unknown
+Mind telling me what time it is?,get_time,en
+All work and no play makes Jack a dull boy.,No Intent,unknown
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.,No Intent,unknown
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+qV6UeipXGY2fisAT7hgXDGPW91wmXu1kCMjHIjvEZydzwCpDZrcqKasTu7mlZ8g,No Intent,unknown
+MEooOm9lv2G1ZrNdj8wKGMbmRLqeicmm107xko2mK3O6B0K2YafjcARwsCrqpU,No Intent,unknown
+"Haben Sie eine Ahnung, welches Datum heute ist?",get_date,de
+3qtKidEMfte12bU46nrYXoJHwjPgd63IPHr84hOSwwLt0HdG20qFpmouY2ZHFvzKbBB16hoNlh5GduAO3gUAGFOkM60y,No Intent,unknown
+"Извините, вы не могли бы сказать мне текущее время?",get_time,ru
+Do you happen to have the time on you?,get_time,en
+The quick brown fox jumps over the lazy dog.,No Intent,unknown
+Можете ли вы поделиться информацией о сегодняшней дате со мной?,get_date,ru
+"Could you provide me with the current time, please?",get_time,en
+zl6Uov1ZpMUc0jRiiKlXxSQyDRUsqdcYpshhJGcqvvx7Ut4zdGRQmGaJmFoRltYhO9pDquLVvm,No Intent,unknown
+Do you know what the date is today?,get_date,en
+291390605,No Intent,unknown
+Könnten Sie das heutige Datum überprüfen und bestätigen?,get_date,de
+03236,No Intent,unknown
+4909356103781945539,No Intent,unknown
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+662998958657075,No Intent,unknown
+lGNOKXLRDa0TViD55RuGL8DXmbQbDKyQuVyt67ZM,No Intent,unknown
+Добрый вечер!,greet,ru
+6071932391,No Intent,unknown
+Do you happen to know what today's date is?,get_date,en
+Wie sieht es gerade mit der Uhrzeit aus?,get_time,de
+"Можете ли вы рассказать мне время, пожалуйста?",get_time,ru
+60829458667,No Intent,unknown
+"Hi, how's life treating you?",greet,en
+58315,No Intent,unknown
+88322311569066655953,No Intent,unknown
+"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",No Intent,unknown
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.,No Intent,unknown
+She sells seashells by the seashore.,No Intent,unknown
+unknown:Адьос!,goodbye,unknown
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+"To be or not to be, that is the question.",No Intent,unknown
+RAnR6wx2s4OivHzduj1zxA95RS2zuSambE6nIP12HYP4wmstoH5,No Intent,unknown
+qvdm5hxswYdv3xBP9pq5duW5cnJU6lhNh3PSXbG5ivwQaCVd,No Intent,unknown
+83234,No Intent,unknown
+Was ist heute für ein Datum?,get_date,de
+"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",No Intent,unknown
+"Привет, как ваш день?",greet,ru
+Есть ли у вас какие-либо детали о сегодняшней дате?,get_date,ru
+"Würden Sie mir bitte verraten, welches Datum heute ist?",get_date,de
+"To be or not to be, that is the question.",No Intent,unknown
+May I ask for the current time from you?,get_time,en
+"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",No Intent,unknown
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.,No Intent,unknown
+She sells seashells by the seashore.,No Intent,unknown
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.,No Intent,unknown
+What's the time looking like at the moment?,get_time,en
+unknown:Farewell!,goodbye,unknown
+889488439056284,No Intent,unknown
+0415046158812,No Intent,unknown
+53793745,No Intent,unknown
+"To be or not to be, that is the question.",No Intent,unknown
+Was ist los?,greet,en
+5061885,No Intent,unknown
+All work and no play makes Jack a dull boy.,No Intent,unknown
+708248539656127189,No Intent,unknown
+Any updates on today's date?,get_date,en
+M9rn3WFfNpfJTBbFkhmznauKbug1isIqYtqkbQSwPO8N2rPYW7K7DEA0APchxx3sFDhsSL6lU9B4G,No Intent,unknown
+YOMwFdxuSUZdnnNayS6Z8CW3CLLN7zbQR,No Intent,unknown
+She sells seashells by the seashore.,No Intent,unknown
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",No Intent,unknown
+All work and no play makes Jack a dull boy.,No Intent,unknown
+2820105727331311816,No Intent,unknown
+nV2T4d3xebXPBNTjRUbiECkBkfgynIJBvcfaHgu7ectQrwvEi2dowtfzmC8uS,No Intent,unknown
+Might I ask for today's date?,get_date,en
+Bleib sicher!,goodbye,de
+"Hi, how's life treating you?",greet,en
+sVG2bGUmbAyugr3tNdqHDX6,No Intent,unknown
+579225629249,No Intent,unknown
+Можете ли вы помочь мне и проверить время?,get_time,ru
+Z6zQ4z6jutlNMZP9puuQip18tsTgXRKSI4hePWmAtyoNPimdtz3Oj7QhmmEys7Y7fItbCvvCnDJvqFXJTlfWnNtCia5LuqqdKTu,No Intent,unknown
+Any clue about the date today?,get_date,en
+21680230889888,No Intent,unknown
+"To be or not to be, that is the question.",No Intent,unknown
+"Entschuldigung, haben Sie die Uhrzeit?",get_time,de
+"To be or not to be, that is the question.",No Intent,unknown
+Здравствуйте!,greet,ru
+Can you let me know what time it is?,get_time,en
+"Hey, how's your week been?",greet,en
+See you later!,goodbye,en
+5819517,No Intent,unknown
+Können Sie mir das Datum für heute mitteilen?,get_date,de
+unknown:Good evening!,greet,unknown
+"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",No Intent,unknown
+"Hey, wie läuft deine Woche?",greet,de
+unknown:Берегите себя!,goodbye,unknown
+"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",No Intent,unknown
+RcnzmnIXYEA81gKGJnMcjDEVduftgp59tTzKZgItOXYFVzo41of58LXtRDXhsf,No Intent,unknown
+Мир и любовь!,goodbye,ru
+The quick brown fox jumps over the lazy dog.,No Intent,unknown
+"Привет, как ваша неделя проходит?",greet,ru
+0xxap0XGLkFWgZI2UgRtwQuOhRiCuhV0RdA8DSVUGa2paKk,No Intent,unknown
+"Wie ist das aktuelle Datum, wenn ich fragen darf?",get_date,de
+The quick brown fox jumps over the lazy dog.,No Intent,unknown
+Any chance you could tell me today's date?,get_date,en
+0531959,No Intent,unknown
+0493452331,No Intent,unknown
+"Haben Sie eine Sekunde Zeit, um mir zu sagen, wie spät es ist?",get_time,de
+"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",No Intent,unknown
+62689,No Intent,unknown
+Einen schönen guten Morgen!,greet,de
+Wie läuft dein Tag bisher?,greet,de
+"Hey, what's new?",greet,en
+Mind sharing the time with me?,get_time,en
+Salutations!,greet,fr
+v2tJyseaON9bvBlAHArXnYiTvKlhZ8Fr,No Intent,unknown
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.,No Intent,unknown
+"To be or not to be, that is the question.",No Intent,unknown
+08484770423518866,No Intent,unknown
+See you around!,goodbye,en
+Grüß Gott!,greet,de
+I6zxxI6IHKbNEnOUpULh9w,No Intent,unknown
+All work and no play makes Jack a dull boy.,No Intent,unknown
+Могу ли я узнать время?,get_time,ru
+Guten Abend!,greet,de
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",No Intent,unknown
+Mind filling me in on today's date?,get_date,en
+Would you mind sharing the time with me?,get_time,en
+Wie geht es dir?,greet,de
+"Не могли бы вы сказать мне, сколько времени?",get_time,ru
+"Haben Sie eine Idee, welches Datum heute ist?",get_date,de
+Мир и любовь!,goodbye,ru
+unknown:Какова сегодняшняя дата?,get_date,unknown
+Do you have the time handy?,get_time,en
+Do you know what time it is at the moment?,get_time,en
+Könnten Sie mich über die aktuelle Uhrzeit informieren?,get_time,de
+9M08iJb9M3YuJkWiASUrg320yLfdLIlMEBp0k60yuTVun0zMJj7ncqV0Xz15mImbDs4J,No Intent,unknown
+Есть ли у вас представление о сегодняшней дате?,get_date,ru
+Wie geht es dir?,greet,de
+"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",No Intent,unknown
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",No Intent,unknown
+4051985650806,No Intent,unknown
+zK73pvr9Qnq5eA1GZTieE1EpatpSKBfS2Xj8F60AyVasUjBgUKnCSjZqk6rfqQZfC9ADYtCQgTbB,No Intent,unknown
+unknown:Good evening!,greet,unknown
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.,No Intent,unknown
+Möchten Sie das heutige Datum mit mir teilen?,get_date,de
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.,No Intent,unknown
+05b65s49l4tHvsMk3QDDeTMkwun72DQA0OQp8mRiU39J59kliJLql6wOyFC1SlNbhXXZ1mZ3pdX,No Intent,unknown
+unknown:Ciao!,goodbye,unknown
+unknown:Как у вас дела?,greet,unknown
+Might I inquire about the time?,get_time,en
+Hey!,greet,en
+28909585175,No Intent,unknown
+unknown:Howdy!,greet,unknown
+Good to meet you!,greet,en
+JaoeRImR0RcQW0jPck9bOGLNdyJ4cEGQMr1f,No Intent,unknown
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",No Intent,unknown
+Есть ли обновления о сегодняшней дате?,get_date,ru
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+"Schön, dich kennenzulernen!",greet,de
+11544452675810,No Intent,unknown
+Can you let me know what time it is?,get_time,en
+05b65s49l4tHvsMk3QDDeTMkwun72DQA0OQp8mRiU39J59kliJLql6wOyFC1SlNbhXXZ1mZ3pdX,No Intent,unknown
+wqYKQivZoGzZhDUQ2jkCh,No Intent,unknown
+She sells seashells by the seashore.,No Intent,unknown
+The quick brown fox jumps over the lazy dog.,No Intent,unknown
+Grüß Gott!,greet,de
+"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",No Intent,unknown
+Do you have the time handy?,get_time,en
+796312565,No Intent,unknown
+"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",No Intent,unknown
+299821836599316,No Intent,unknown
+Как ваш день до сих пор проходит?,greet,ru
+Wie läuft es bei dir?,greet,de
+unknown:Как дела?,greet,unknown
+29996101096201189256,No Intent,unknown
+7886451,No Intent,unknown
+Würden Sie mir das heutige Datum verraten?,get_date,de
+Can you tell me today's date?,get_date,en
+8438127982329,No Intent,unknown
+All work and no play makes Jack a dull boy.,No Intent,unknown
+5149977951,No Intent,unknown
+GJCzRyw1w2haQW2BM7TiPN7BpEa93AAhQFuixunYtdl80ir9mjUP6YC9pVKvDYFIEw0tuaZKQ0JH3Poh0U,No Intent,unknown
+"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",No Intent,unknown
+"Wissen Sie zufällig, wie spät es ist?",get_time,de
+M9rn3WFfNpfJTBbFkhmznauKbug1isIqYtqkbQSwPO8N2rPYW7K7DEA0APchxx3sFDhsSL6lU9B4G,No Intent,unknown
+She sells seashells by the seashore.,No Intent,unknown
+The quick brown fox jumps over the lazy dog.,No Intent,unknown
+60829458667,No Intent,unknown
+"Haben Sie eine Ahnung, welches Datum heute ist?",get_date,de
+"Hey, what's going on?",greet,en
+"Есть ли у вас возможность узнать, который час?",get_time,ru
+714060864848,No Intent,unknown
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.,No Intent,unknown
+HVULFoMMSlp2l7IdIAsUC6tH6dh2q88fj02yioKBGWLtm6Be9G99jMlEFURZBrFMRn0Hbi286gA8jJax86L,No Intent,unknown
+08484770423518866,No Intent,unknown
+796312565,No Intent,unknown
+Can you shed some light on the date for today?,get_date,en
+Приятно познакомиться!,greet,ru
+293023523066379,No Intent,unknown
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+"Können Sie mir sagen, wie spät es ist?",get_time,de
+Might I ask for today's date?,get_date,en
+What day of the month is it today?,get_date,en
+unknown:Hallo!,greet,unknown
+pxrp1gDuZTZJ97QhJOvqlMrLLHRbaOpVUUwk1vQG6FtJ65xAcOdZTQ1PMhaJnXZqybUF5S1oFQOcn3jLpn3hVuoNC,No Intent,unknown
+All work and no play makes Jack a dull boy.,No Intent,unknown
+91008784,No Intent,unknown
+Frieden und Liebe!,goodbye,de
+816027111160061,No Intent,unknown
+21680230889888,No Intent,unknown
+9335555887,No Intent,unknown
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",No Intent,unknown
+Take good care!,goodbye,en
+Bleib sicher!,goodbye,de
+"Excuse me, do you have the time?",get_time,en
+UgBmmm4ZO2pfxZ5dXVk5K,No Intent,unknown
+myz26cAUa778vMvN8dD6jOdVf2rXD6vaz7uNELCF4oQJ8jKjNaCU5tcFHLfZOp0TGg4yKGz,No Intent,unknown
+Tschüss für jetzt!,goodbye,de
+"Не знаете ли вы, который час сейчас?",get_time,ru
+69489164809,No Intent,unknown
+unknown:Какова сегодняшняя дата?,get_date,unknown
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+03236,No Intent,unknown
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",No Intent,unknown
+tsc7LtKsi1SDgDW0Cgm79TstuohV50TbcHSkGR,No Intent,unknown
+She sells seashells by the seashore.,No Intent,unknown
+Fla1NaHi7rC13RlZYHajrVYFI6E2eiATpMayJcDUs0oJ5vWX1fIRRc5s4tJVUrtUzRRUUG2YH,No Intent,unknown
+299283,No Intent,unknown
+Einen schönen guten Morgen!,greet,de
+До следующей встречи!,goodbye,ru
+gA9WB1KGb0o6ey8xcp6DRgtInsOboNsxD2h98FYAbCGpniNoBc6rRL544qFaEb0l,No Intent,unknown
+Any details on the date for today?,get_date,en
+"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",No Intent,unknown
+Could you inform me of the current time?,get_time,en
+Do you know what time it is at the moment?,get_time,en
+qV6UeipXGY2fisAT7hgXDGPW91wmXu1kCMjHIjvEZydzwCpDZrcqKasTu7mlZ8g,No Intent,unknown
+813618,No Intent,unknown
+601523035162845,No Intent,unknown
+Keep in touch!,goodbye,en
+She sells seashells by the seashore.,No Intent,unknown
+"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",No Intent,unknown
+Wie sieht das Datum auf Ihrem Kalender für heute aus?,get_date,de
+594227412948132,No Intent,unknown
+Могу ли я узнать время?,get_time,ru
+"Hallo, wie läuft dein Tag?",greet,de
+Catch you later!,goodbye,en
+"Schön, dich anzutreffen!",greet,de
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+Как ваши дела сегодня?,greet,ru
+Any idea what the date is today?,get_date,en
+150478225387200283,No Intent,unknown
+6726928341562040371,No Intent,unknown
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",No Intent,unknown
 Darf ich nach der Uhrzeit fragen?,get_time,de
+"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",No Intent,unknown
+JYYivhxdoppCxWmMcS22,No Intent,unknown
+"unknown:Hallo, wie geht es dir gerade?",greet,unknown
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.,No Intent,unknown
+Könnten Sie mir bitte Informationen über das heutige Datum geben?,get_date,de
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+rxtDq0HM4EqkPKqSHQFREm6rlZt2hfvG8Q5TPlJN0rxwSDA6ws4RcXBEiE6GtzQSjDPfcXDb2PX6yXuuBi50huzm6Ul3jnPT,No Intent,unknown
+"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",No Intent,unknown
+"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",No Intent,unknown
+33203,No Intent,unknown
+"To be or not to be, that is the question.",No Intent,unknown
+Was geht ab?,greet,de
+Какова дата по вашему календарю сегодня?,get_date,ru
+96408,No Intent,unknown
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+"Hallo, wie kommst du zurecht?",greet,de
+The quick brown fox jumps over the lazy dog.,No Intent,unknown
+"Вы знаете, какое сегодня число?",get_date,ru
+5431973790389493,No Intent,unknown
+"Können Sie mich über die Uhrzeit aufklären, bitte?",get_time,de
+"Wissen Sie, wie spät es gerade ist?",get_time,de
+The quick brown fox jumps over the lazy dog.,No Intent,unknown
+9052423247199,No Intent,unknown
+She sells seashells by the seashore.,No Intent,unknown
+Hab einen schönen Tag!,goodbye,de
+991978313,No Intent,unknown
+She sells seashells by the seashore.,No Intent,unknown
+5819517,No Intent,unknown
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.,No Intent,unknown
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+9335555887,No Intent,unknown
+FNegWpcQwMp3vydrqHNTi1553kEWhYCy38FZ7xyV5QudjSM7X3IXqzTTJJX8N8YN5cgNSRK6dHSbRCL,No Intent,unknown
+"Привет, что нового?",greet,ru
+Könnten Sie mir bitte das heutige Datum mitteilen?,get_date,de
+gLrGNPF3QUB2n4iYaCP6Px53pRU4Ck148BonFOQNHFB9DlqBOKbXWpQvHQCyCcH8SMuva9ea2BhOD7BXlMRkdtlJUgRE,No Intent,unknown
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.,No Intent,unknown
+"Hi, how have you been?",greet,en
+All work and no play makes Jack a dull boy.,No Intent,unknown
+zK73pvr9Qnq5eA1GZTieE1EpatpSKBfS2Xj8F60AyVasUjBgUKnCSjZqk6rfqQZfC9ADYtCQgTbB,No Intent,unknown
+Guten Morgen!,greet,de
+"To be or not to be, that is the question.",No Intent,unknown
+"To be or not to be, that is the question.",No Intent,unknown
+5149977951,No Intent,unknown
+Keep in touch!,goodbye,en
+The quick brown fox jumps over the lazy dog.,No Intent,unknown
+JtdeyGEE6x7aKy28d2y14f3oCE3Dl,No Intent,unknown
+"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",No Intent,unknown
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+Можете ли вы сообщить мне сегодняшнюю дату?,get_date,ru
+unknown:Well met!,greet,unknown
+Увидимся!,goodbye,ru
+WX4jqbmHK0JHddtEV4gOdgwaWUw,No Intent,unknown
+unknown:What's today's date looking like?,get_date,unknown
+"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",No Intent,unknown
+33203,No Intent,unknown
+PH8q3BVzzzPs5yY3uELXfmoPehomxHnQJDnyeVr,No Intent,unknown
+Could you check and confirm today's date?,get_date,en
+"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",No Intent,unknown
+unknown:Пока!,goodbye,unknown
+"Haben Sie eine Vorstellung, welches Datum heute ist?",get_date,de
+4896221282,No Intent,unknown
+299821836599316,No Intent,unknown
+2508057557002110710,No Intent,unknown
+MR3m72tUhv6h11aT2NqlT2xFh1qF9uY8eRpe9VjbkcVtJldXmp32noizhTGpFICyiJiledNVTP4hSLdH6jamcgaavWnPVh,No Intent,unknown
+unknown:Arrivederci!,goodbye,unknown
+What's the current time on your watch?,get_time,en
+What's the date today?,get_date,en
+Würden Sie mir freundlicherweise die Uhrzeit mitteilen?,get_time,de
+"Entschuldigung, könnten Sie mir die aktuelle Uhrzeit sagen?",get_time,de
+Легкой походки!,goodbye,ru
+Catch you later!,goodbye,en
+08484770423518866,No Intent,unknown
+"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",No Intent,unknown
+Какова дата для сегодняшнего дня?,get_date,ru
+"To be or not to be, that is the question.",No Intent,unknown
+Fla1NaHi7rC13RlZYHajrVYFI6E2eiATpMayJcDUs0oJ5vWX1fIRRc5s4tJVUrtUzRRUUG2YH,No Intent,unknown
+Haben Sie irgendwelche Informationen über das heutige Datum?,get_date,de
+Tschüssi!,goodbye,de
+"Wissen Sie, welches Datum heute ist?",get_date,de
+She sells seashells by the seashore.,No Intent,unknown
+Can you tell me today's date?,get_date,en
+1wbpCwFfxfI0DAih2oSKFd5Ee4WO9wjlZ3SSPZS0h20nZ,No Intent,unknown
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.,No Intent,unknown
+Peace out!,goodbye,en
+"To be or not to be, that is the question.",No Intent,unknown
+Könnten Sie mir das Datum für heute nennen?,get_date,de
+unknown:Bye-bye!,goodbye,unknown
+I2A3d2ugOcFzZQM1V88A5UCcfpAb36kqMP4Qj7t2RHX8tc8t45xGEY73,No Intent,unknown
+2269835,No Intent,unknown
+The quick brown fox jumps over the lazy dog.,No Intent,unknown
+unknown:Farewell!,goodbye,unknown
+I6zxxI6IHKbNEnOUpULh9w,No Intent,unknown
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.,No Intent,unknown
+Bis wir uns wiedersehen!,goodbye,de
+She sells seashells by the seashore.,No Intent,unknown
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+"In a while, crocodile!",goodbye,en
+"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",No Intent,unknown
+All work and no play makes Jack a dull boy.,No Intent,unknown
+The quick brown fox jumps over the lazy dog.,No Intent,unknown
+3qtKidEMfte12bU46nrYXoJHwjPgd63IPHr84hOSwwLt0HdG20qFpmouY2ZHFvzKbBB16hoNlh5GduAO3gUAGFOkM60y,No Intent,unknown
+Do you have the time handy?,get_time,en
+6115235547888,No Intent,unknown
+"To be or not to be, that is the question.",No Intent,unknown
+"To be or not to be, that is the question.",No Intent,unknown
+5149977951,No Intent,unknown
+unknown:Till we meet again!,goodbye,unknown
+All work and no play makes Jack a dull boy.,No Intent,unknown
+654407999,No Intent,unknown
+4896221282,No Intent,unknown
+unknown:Cheers!,goodbye,unknown
+All work and no play makes Jack a dull boy.,No Intent,unknown
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+Будь здоров!,goodbye,ru
+aAIA9AGZB6C7RVavRyN8RU9dge0HK1ZhFilOz,No Intent,unknown
+7446604,No Intent,unknown
+476819343038,No Intent,unknown
+"Не знаете ли вы, какое сегодня число?",get_date,ru
+Bis später!,goodbye,de
+0493452331,No Intent,unknown
+023543491574018894,No Intent,unknown
+vh2Vx2leg3qrUgMwCXOWbP2E2Xv03Jtx4VHgzjtweMNH8hASf,No Intent,unknown
+Guten Abend!,greet,de
+"Schön, dich kennenzulernen!",greet,de
+579225629249,No Intent,unknown
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.,No Intent,unknown
+srvG34aK4KlLC0qCZ7QQjO3sNp9Ch4yp72I5ZThyXlMlSIsFVsvg2odb9w5wczNLeViAZAPUztINvRT,No Intent,unknown
+"Привет, как ваша неделя проходит?",greet,ru
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.,No Intent,unknown
+The quick brown fox jumps over the lazy dog.,No Intent,unknown
+What's the date as per your calendar today?,get_date,en
+Could you please provide me with today's date?,get_date,en
+28909585175,No Intent,unknown
+unknown:What's today's date looking like?,get_date,unknown
+The quick brown fox jumps over the lazy dog.,No Intent,unknown
+M9rn3WFfNpfJTBbFkhmznauKbug1isIqYtqkbQSwPO8N2rPYW7K7DEA0APchxx3sFDhsSL6lU9B4G,No Intent,unknown
+188704656318823,No Intent,unknown
+Mach's locker!,goodbye,en
+Can you clue me in on the time right now?,get_time,en
+"To be or not to be, that is the question.",No Intent,unknown
+gA9WB1KGb0o6ey8xcp6DRgtInsOboNsxD2h98FYAbCGpniNoBc6rRL544qFaEb0l,No Intent,unknown
+Рад вас видеть!,greet,ru
+3122088,No Intent,unknown
+vGci5zqm4uol7zR6Gjjse8ZGNTXxnEk3TXoV,No Intent,unknown
+myz26cAUa778vMvN8dD6jOdVf2rXD6vaz7uNELCF4oQJ8jKjNaCU5tcFHLfZOp0TGg4yKGz,No Intent,unknown
+582442299197430,No Intent,unknown
+36296844313,No Intent,unknown
+The quick brown fox jumps over the lazy dog.,No Intent,unknown
+Можете ли вы сообщить мне текущее время?,get_time,ru
+Care to share today's date with me?,get_date,en
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",No Intent,unknown
+Wie sieht das Datum auf Ihrem Kalender für heute aus?,get_date,de
+wn7qElYzq4Rkqji9tv7rEyhUyk0mNwj,No Intent,unknown
+0157516821620,No Intent,unknown
+Хотите поделиться сегодняшней датой со мной?,get_date,ru
+Wie sieht das Datum für heute aus?,get_date,de
+"Привет, что нового?",greet,ru
+Здравствуйте!,greet,ru
+Сохраняйте веру!,goodbye,ru
+7950898655712913674,No Intent,unknown
+How are things with you?,greet,en
+unknown:How's your day been so far?,greet,unknown
+Будь здоров!,goodbye,ru
+Darf ich Sie nach der Uhrzeit fragen?,get_time,de
+"Извините, вы не могли бы сказать мне текущее время?",get_time,ru
+unknown:See you soon!,goodbye,unknown
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+52858329614,No Intent,unknown
+FCVAUIKCfN5KAHFmrwu4sUIB2959X7gqI2b5wgNliY8Kf0AsDU1R0NA,No Intent,unknown
+All work and no play makes Jack a dull boy.,No Intent,unknown
+7295185456110,No Intent,unknown
+Could you check and confirm today's date?,get_date,en
+"Не могли бы вы сказать мне, который час сейчас?",get_time,ru
+"Можете ли вы поделиться со мной временем, пожалуйста?",get_time,ru
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.,No Intent,unknown
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+Take care of yourself!,goodbye,en
+844878263750254,No Intent,unknown
+"До встречи, крокодил!",goodbye,ru
+6DSGGcmZEjq4Jam2T0g45mD30Xu0u8OvIytSHkk3UDkADlgIPolAJymuML3qPkTEq,No Intent,unknown
+0DgYe5w0R6Z0OoDg9cj8yu1a1c421ZWMMkX9ubCJhPLPros6v0UKzQHb7DVbnNmHS4JbsWvr608SyWEz07HI5fi,No Intent,unknown
+What's the time looking like?,get_time,en
+"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",No Intent,unknown
+"Hey, how are you?",greet,en
+What might the time be at the moment?,get_time,en
+iyLlvXGUw8sUBthttuRAREnkT,No Intent,unknown
+Might I inquire about the time?,get_time,en
+299821836599316,No Intent,unknown
+3089587136067,No Intent,unknown
+Вы не могли бы сказать мне время?,get_time,ru
+vh2Vx2leg3qrUgMwCXOWbP2E2Xv03Jtx4VHgzjtweMNH8hASf,No Intent,unknown
+"Можете ли вы, пожалуйста, сообщить мне время?",get_time,ru
+"To be or not to be, that is the question.",No Intent,unknown
+"Können Sie mir sagen, wie spät es jetzt ist?",get_time,de
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",No Intent,unknown
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.,No Intent,unknown
+"unknown:Hi, how's your day?",greet,unknown
+"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",No Intent,unknown
+She sells seashells by the seashore.,No Intent,unknown
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",No Intent,unknown
+"Можете ли вы уточнить, который час?",get_time,ru
+"Можете ли вы рассказать мне время, пожалуйста?",get_time,ru
+She sells seashells by the seashore.,No Intent,unknown
+She sells seashells by the seashore.,No Intent,unknown
+OiWFfynuBrSPHT4rN5jPiNzHovsOgeek5i5O4FVSJ,No Intent,unknown
+She sells seashells by the seashore.,No Intent,unknown
+Darf ich Sie nach der Uhrzeit fragen?,get_time,de
+64793,No Intent,unknown
+Any intel on today's date?,get_date,en
+Darf ich Sie um die aktuelle Uhrzeit bitten?,get_time,de
+"Können Sie mir sagen, wie spät es ist?",get_time,de
+Есть ли у вас какие-либо идеи о сегодняшней дате?,get_date,ru
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+She sells seashells by the seashore.,No Intent,unknown
+"Привет, как вам жизнь?",greet,ru
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+7950898655712913674,No Intent,unknown
+Grüße!,greet,de
+6726928341562040371,No Intent,unknown
+See you around!,goodbye,en
+Есть ли у вас какие-либо идеи о сегодняшней дате?,get_date,ru
+"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",No Intent,unknown
+unknown:Toodle-oo!,goodbye,unknown
+4794214,No Intent,unknown
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+"Знаете ли вы, который час?",get_time,ru
+What's the time according to your watch?,get_time,en
+"To be or not to be, that is the question.",No Intent,unknown
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+291390605,No Intent,unknown
+GJCzRyw1w2haQW2BM7TiPN7BpEa93AAhQFuixunYtdl80ir9mjUP6YC9pVKvDYFIEw0tuaZKQ0JH3Poh0U,No Intent,unknown
+The quick brown fox jumps over the lazy dog.,No Intent,unknown
+JrwHNh4rpRr4B1wqTgiU6POR6jlCiVZNVcUqNN,No Intent,unknown
+Можете ли вы помочь мне и сообщить сегодняшнюю дату?,get_date,ru
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.,No Intent,unknown
+OJOFFHfmYHM8yygCRgpCUKuQcovdP5xJBPAzS04eaQ51r2O6lTmEhV625DOKStmqlOc42Oa1SV7d,No Intent,unknown
+unknown:Адьос!,goodbye,unknown
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",No Intent,unknown
+"To be or not to be, that is the question.",No Intent,unknown
+unknown:Покедова!,goodbye,unknown
+Доброе утро!,greet,ru
+What's the date as per your calendar today?,get_date,en
+Какова дата по вашему календарю сегодня?,get_date,ru
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.,No Intent,unknown
+6115235547888,No Intent,unknown
+Есть ли обновления о сегодняшней дате?,get_date,ru
+Haben Sie gerade die Uhrzeit parat?,get_time,de
+Будь здоров!,goodbye,ru
+"To be or not to be, that is the question.",No Intent,unknown
+Could you please provide me with today's date?,get_date,en
+unknown:Prost!,goodbye,unknown
+Könnten Sie mir bitte das heutige Datum angeben?,get_date,de
+May I ask for the current time from you?,get_time,en
+"Hallo, nett dich kennenzulernen!",greet,de
+tsc7LtKsi1SDgDW0Cgm79TstuohV50TbcHSkGR,No Intent,unknown
+Mind filling me in on today's date?,get_date,en
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",No Intent,unknown
+36296844313,No Intent,unknown
+"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",No Intent,unknown
+"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",No Intent,unknown
+7446604,No Intent,unknown
+816027111160061,No Intent,unknown
+Который час по вашему времени?,get_time,ru
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.,No Intent,unknown
+JYYivhxdoppCxWmMcS22,No Intent,unknown
+Mind letting me know what the date is today?,get_date,en
+Wie sieht es mit der Uhrzeit aus?,get_time,de
+796312565,No Intent,unknown
+The quick brown fox jumps over the lazy dog.,No Intent,unknown
+All work and no play makes Jack a dull boy.,No Intent,unknown
+The quick brown fox jumps over the lazy dog.,No Intent,unknown
+unknown:Adios!,goodbye,unknown
+4051985650806,No Intent,unknown
+eFc5pNcuXCNaS0f8vFI6SVoL1uvFzcy0QWoWT7MHm9Xi3yCB2LrUVuuHexI6VqQXZE,No Intent,unknown
+"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",No Intent,unknown
+unknown:Cheers!,goodbye,unknown
+Прощай!,goodbye,ru
+QbnBjy4hZwOUuEoYgrWK,No Intent,unknown
+SZYSTtCRS6uB8BOZRI1wOULXYXhAmzdKZjGrzAcaitEYgI7k6cDEjRgbitztqyygrJReFrPZ0wmxtEBOTXEOk,No Intent,unknown
+Haben Sie das Datum für heute zur Hand?,get_date,de
+Могу я узнать текущее время у вас?,get_time,ru
+6726928341562040371,No Intent,unknown
+Could you inform me of the current time?,get_time,en
+698237116874,No Intent,unknown
+"unknown:Привет, как ваши дела?",greet,unknown
+t893dhTuseISOb1pITbOvIxSorOn76w6llXdBQPfMYAQxYJSboNYxy2JHlwiG0GtbGLHrlqrElKYqZxGGH9GXoO65t61m2pSKb,No Intent,unknown
+Could you please inform me of the time?,get_time,en
+The quick brown fox jumps over the lazy dog.,No Intent,unknown
+0IMepNCpbS58hqZqFw5iOmkcrrs40,No Intent,unknown
+"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",No Intent,unknown
+Можете ли вы сказать мне сегодняшнюю дату?,get_date,ru
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.,No Intent,unknown
+All work and no play makes Jack a dull boy.,No Intent,unknown
+Добрый вечер!,greet,ru
+Каково время в данный момент?,get_time,ru
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.,No Intent,unknown
+Be well!,goodbye,de
+Behalte den Glauben!,goodbye,de
+The quick brown fox jumps over the lazy dog.,No Intent,unknown
+96408,No Intent,unknown
+She sells seashells by the seashore.,No Intent,unknown
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+809380666363327,No Intent,unknown
+"Hey, how's your week been?",greet,en
+Könnten Sie das heutige Datum überprüfen und bestätigen?,get_date,de
+Рад вас видеть!,greet,ru
+Не могли бы вы сказать мне сегодняшнюю дату?,get_date,ru
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",No Intent,unknown
+Не могли бы вы просветить меня на сегодняшнюю дату?,get_date,ru
+0493452331,No Intent,unknown
+Might I ask for today's date?,get_date,en
+DDikNeQcJZ6FygQAeUcc2Tv5X6qK,No Intent,unknown
+38189925168865,No Intent,unknown
+V9fzXrMJNi63gpD0IW5O2srNipW4QVSFG8enEnRMotGv4MWbnzk4ITL36Cqa7Wmpso1,No Intent,unknown
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.,No Intent,unknown
+293023523066379,No Intent,unknown
+4898465463978,No Intent,unknown
+SOXRLgwqIq4FVz3MMkFcQWxW5zakcJh3NayLzRC4nIw25r38VaBb5wJrDfC1Eu,No Intent,unknown
+She sells seashells by the seashore.,No Intent,unknown
+Какова сегодняшняя дата по вашему календарю?,get_date,ru
+All work and no play makes Jack a dull boy.,No Intent,unknown
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.,No Intent,unknown
+62513696186668,No Intent,unknown
+Behalte den Glauben!,goodbye,de
+"Знаете ли вы, который час?",get_time,ru
+The quick brown fox jumps over the lazy dog.,No Intent,unknown
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.,No Intent,unknown
+61183514165789789,No Intent,unknown
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.,No Intent,unknown
+"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",No Intent,unknown
+Until we meet again!,goodbye,en
+"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",No Intent,unknown
+The quick brown fox jumps over the lazy dog.,No Intent,unknown
+YOMwFdxuSUZdnnNayS6Z8CW3CLLN7zbQR,No Intent,unknown
+She sells seashells by the seashore.,No Intent,unknown
+"Schön, dich zu sehen!",greet,de
+Was ist los?,greet,en
+"Could you provide me with the current time, please?",get_time,en
+2475055429,No Intent,unknown
+Would you mind letting me know the time?,get_time,en
+"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",No Intent,unknown
+"What's the time, please?",get_time,en
+Peace and love!,goodbye,en
+Можете ли вы раскрыть сегодняшнюю дату мне?,get_date,ru
+0531959,No Intent,unknown
+Wie lautet der Datumstempel für heute?,get_date,de
+"Haben Sie eine Idee, welches Datum heute ist?",get_date,de
+Есть ли у вас какие-либо идеи о сегодняшней дате?,get_date,ru
+What's happening?,greet,en
+All the best!,goodbye,en
+"Привет, что у вас нового?",greet,ru
+Can you check the time for me?,get_time,en
+Береги себя!,goodbye,ru
+"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",No Intent,unknown
+Оставайтесь на связи!,goodbye,ru
+7651575760607,No Intent,unknown
+"Hi, how's life treating you?",greet,en
+Wie sieht es gerade mit der Uhrzeit aus?,get_time,de
+09035171586088227893,No Intent,unknown
+JrwHNh4rpRr4B1wqTgiU6POR6jlCiVZNVcUqNN,No Intent,unknown
+Mach's locker!,goodbye,en
+Прощай!,goodbye,ru
+Mind telling me the date for today?,get_date,en
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+Könnten Sie mich bitte über die Uhrzeit informieren?,get_time,de
+She sells seashells by the seashore.,No Intent,unknown
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+Можете ли вы поделиться информацией о сегодняшней дате со мной?,get_date,ru
+Gibt es Neuigkeiten über das heutige Datum?,get_date,de
+Top of the morning to you!,greet,en
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.,No Intent,unknown
+42404,No Intent,unknown
+s6zIUNEomiAMHMqb0gN2KK2mJL452kcgXMunzwj1Rd4e47kMeEEDewnU74RczwIfON4oQ1Tu,No Intent,unknown
+"Wissen Sie, wie spät es gerade ist?",get_time,de
+Any idea about today's date?,get_date,en
+HRmIY1GiT9GJ7Vjk8ytxiUPD9FqJFKIbsCgFgg9ILfbFg4k9d1aX9RajZWDhJGcYrAWKmFqPpjHdoAlg0NNwJ24YObTWcP3gvu,No Intent,unknown
+4329744183,No Intent,unknown
+HVULFoMMSlp2l7IdIAsUC6tH6dh2q88fj02yioKBGWLtm6Be9G99jMlEFURZBrFMRn0Hbi286gA8jJax86L,No Intent,unknown
+9335555887,No Intent,unknown
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.,No Intent,unknown
+6071932391,No Intent,unknown
+"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",No Intent,unknown
+6115235547888,No Intent,unknown
+Do you have a second to tell me what time it is?,get_time,en
+"Hey, wie läuft deine Woche?",greet,de
+RcnzmnIXYEA81gKGJnMcjDEVduftgp59tTzKZgItOXYFVzo41of58LXtRDXhsf,No Intent,unknown
+"To be or not to be, that is the question.",No Intent,unknown
+6DSGGcmZEjq4Jam2T0g45mD30Xu0u8OvIytSHkk3UDkADlgIPolAJymuML3qPkTEq,No Intent,unknown
+"Привет, как ваша неделя проходит?",greet,ru
+Can you let me know what date it is today?,get_date,en
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+"Привет, как ваша неделя проходит?",greet,ru
+059652826,No Intent,unknown
+Können Sie mir bitte die Uhrzeit mitteilen?,get_time,de
+773805265189,No Intent,unknown
+Auf Wiedersehen!,goodbye,de
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.,No Intent,unknown
+Tschüssi!,goodbye,de
+"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",No Intent,unknown
+What's the current time on your watch?,get_time,en
+The quick brown fox jumps over the lazy dog.,No Intent,unknown
+J5uA23MNNYEv9oOQNpyTmXO5W,No Intent,unknown
+"Entschuldigung, könnten Sie mir die aktuelle Uhrzeit sagen?",get_time,de
+8903705,No Intent,unknown
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",No Intent,unknown
+Gibt es Neuigkeiten über das heutige Datum?,get_date,de
+"Excuse me, do you have the time?",get_time,en
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",No Intent,unknown
+Будь здоров!,goodbye,ru
+Рад вас видеть!,greet,ru
+0869552453697894,No Intent,unknown
+Can you clue me in on the time right now?,get_time,en
+1340118929,No Intent,unknown
+VqxO1Y5S1PEQvZycldVEOKj1vtX0JSCfPh8SK44hdn6mX8VoUOxAbNWGlV64TFF6Jt63g,No Intent,unknown
+"Könnten Sie mir sagen, wie spät es ist?",get_time,de
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.,No Intent,unknown
+"Hallo, wie kommst du zurecht?",greet,de
+"Können Sie mir sagen, wie spät es ist?",get_time,de
+"To be or not to be, that is the question.",No Intent,unknown
+Können Sie etwas Licht auf das heutige Datum werfen?,get_date,de
+Könnten Sie mir bitte das heutige Datum mitteilen?,get_date,de
+How's it going?,greet,en
+SOXRLgwqIq4FVz3MMkFcQWxW5zakcJh3NayLzRC4nIw25r38VaBb5wJrDfC1Eu,No Intent,unknown
+10037622,No Intent,unknown
+Сохраняйте веру!,goodbye,ru
+"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",No Intent,unknown
+13vmtFgiRV5T0lEUPCAe1MfhJsxHdVGtA0JGsnTqD5ATFpm6,No Intent,unknown
+unknown:Cheers!,goodbye,unknown
+9052423247199,No Intent,unknown
+Any idea what time it is right now?,get_time,en
+RAjUpoHSpswaB12RKZJlfI9ydTK08ZBJHnywLP3H1Y8mB6xr3xJTo8t6oyYNbmZ0innsPO6rCJWjle8TUdidAuebAW,No Intent,unknown
+The quick brown fox jumps over the lazy dog.,No Intent,unknown
+"Hi, how have you been?",greet,en
+unknown:Адьос!,goodbye,unknown
+Хорошего дня!,goodbye,ru
+"Привет, приятно вас встретить!",greet,ru
+Bye for now!,goodbye,en
+All work and no play makes Jack a dull boy.,No Intent,unknown
+83234,No Intent,unknown
+"Könnten Sie mir bitte sagen, wie spät es ist?",get_time,de
+unknown:Greetings!,greet,unknown
+The quick brown fox jumps over the lazy dog.,No Intent,unknown
+Hey!,greet,en
+"Можете ли вы поделиться со мной временем, пожалуйста?",get_time,ru
+"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",No Intent,unknown
+o3AE5sede5NH9thS44SqvGQfspSmuAMwZ,No Intent,unknown
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.,No Intent,unknown
+09zt9A9mG5nWgme1xpPqJxnx5c,No Intent,unknown
+What's the date according to your calendar today?,get_date,en
+unknown:Как обстоят дела с временем?,get_time,unknown
+Mind sharing the time with me?,get_time,en
+The quick brown fox jumps over the lazy dog.,No Intent,unknown
+5061885,No Intent,unknown
+Until we meet again!,goodbye,en
+Не могли бы вы проинформировать меня о текущем времени?,get_time,ru
+5061885,No Intent,unknown
+Который час по вашим часам?,get_time,ru
+Could you clue me in on today's date?,get_date,en
+185349876494355128,No Intent,unknown
+ECxhg4GCceVfks1awvwqbNn482An1H4sfiJO3nWX8vOcU2W5XZYd9FPvZm4fuHWz3ssq85Xm0Tdie7uzfvuTMQ7ZQ0AqJWAD,No Intent,unknown
+"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",No Intent,unknown
+299821836599316,No Intent,unknown
+Könnten Sie mir bitte das heutige Datum angeben?,get_date,de
+Would you mind sharing today's date with me?,get_date,en
+"To be or not to be, that is the question.",No Intent,unknown
+Care to share today's date with me?,get_date,en
+5061885,No Intent,unknown
+What's the current time on your end?,get_time,en
+GJCzRyw1w2haQW2BM7TiPN7BpEa93AAhQFuixunYtdl80ir9mjUP6YC9pVKvDYFIEw0tuaZKQ0JH3Poh0U,No Intent,unknown
+She sells seashells by the seashore.,No Intent,unknown
+Would you kindly let me know the time?,get_time,en
+PH8q3BVzzzPs5yY3uELXfmoPehomxHnQJDnyeVr,No Intent,unknown
+"Через некоторое время, крокодил!",goodbye,ru
+Any idea about today's date?,get_date,en
+"Hey, was gibt's Neues?",greet,en
+Легкой походки!,goodbye,ru
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+Bis zur Unendlichkeit und noch weiter!,goodbye,de
+The quick brown fox jumps over the lazy dog.,No Intent,unknown
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",No Intent,unknown
+unknown:So long!,goodbye,unknown
+Доброе утро!,greet,ru
+5149977951,No Intent,unknown
+unknown:Как ваши дела?,greet,unknown
+JaoeRImR0RcQW0jPck9bOGLNdyJ4cEGQMr1f,No Intent,unknown
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.,No Intent,unknown
+Что нового?,greet,ru
+28909585175,No Intent,unknown
+Top of the morning to you!,greet,en
+Guten Morgen!,greet,de
+61183514165789789,No Intent,unknown
+34931976506789103,No Intent,unknown
+Any chance you could tell me today's date?,get_date,en
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.,No Intent,unknown
+87794623625494208,No Intent,unknown
+"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",No Intent,unknown
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+Könnten Sie mir bitte das heutige Datum mitteilen?,get_date,de
+gLrGNPF3QUB2n4iYaCP6Px53pRU4Ck148BonFOQNHFB9DlqBOKbXWpQvHQCyCcH8SMuva9ea2BhOD7BXlMRkdtlJUgRE,No Intent,unknown
+Any chance you know what time it is?,get_time,en
+Bis zur Unendlichkeit und noch weiter!,goodbye,de
+Do you have the date at your fingertips for today?,get_date,en
+All work and no play makes Jack a dull boy.,No Intent,unknown
+До встречи!,goodbye,ru
+V1JQtvHOK4n04Yy4QAJGRIsBfd7SuK6x8mblBnSuMZhbf0DBnH6JM,No Intent,unknown
+"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",No Intent,unknown
+У вас есть сегодняшняя дата под рукой?,get_date,ru
+"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",No Intent,unknown
+6w5xG9poo4MAe2Nj7DeGokJvfxu5GOItgAdpHm2a,No Intent,unknown
+"Hi, how's life treating you?",greet,en
+"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",No Intent,unknown
+unknown:Hiya!,greet,unknown
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+"Извините, можно узнать, который час?",get_time,ru
+2269835,No Intent,unknown
+Nimm es leicht!,goodbye,de
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+Bis bald!,goodbye,en
+03236,No Intent,unknown
+vGci5zqm4uol7zR6Gjjse8ZGNTXxnEk3TXoV,No Intent,unknown
+unknown:Пока!,goodbye,unknown
+"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",No Intent,unknown
+6DSGGcmZEjq4Jam2T0g45mD30Xu0u8OvIytSHkk3UDkADlgIPolAJymuML3qPkTEq,No Intent,unknown
+58658303876673266,No Intent,unknown
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",No Intent,unknown
+Wie sieht das Datum für heute aus?,get_date,de
+unknown:Hallo!,greet,unknown
+t893dhTuseISOb1pITbOvIxSorOn76w6llXdBQPfMYAQxYJSboNYxy2JHlwiG0GtbGLHrlqrElKYqZxGGH9GXoO65t61m2pSKb,No Intent,unknown
+"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",No Intent,unknown
+agtVUht1eyvG8eD4exgU7XmQuXkmtxXqtSZr9jXYC5iRXIe1bFqSgWhWHHlcaVh4g9O5jFtZS,No Intent,unknown
+All work and no play makes Jack a dull boy.,No Intent,unknown
+Könnten Sie mich bitte über die Uhrzeit informieren?,get_time,de
+2820105727331311816,No Intent,unknown
+"To be or not to be, that is the question.",No Intent,unknown
+"Есть ли у вас возможность узнать, который час?",get_time,ru
+"Можете ли вы, пожалуйста, предоставить мне сегодняшнюю дату?",get_date,ru
+RAjUpoHSpswaB12RKZJlfI9ydTK08ZBJHnywLP3H1Y8mB6xr3xJTo8t6oyYNbmZ0innsPO6rCJWjle8TUdidAuebAW,No Intent,unknown
+zl6Uov1ZpMUc0jRiiKlXxSQyDRUsqdcYpshhJGcqvvx7Ut4zdGRQmGaJmFoRltYhO9pDquLVvm,No Intent,unknown
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+Wie läuft es bei dir?,greet,de
+Salutations!,greet,fr
+293023523066379,No Intent,unknown
+Wir sehen uns!,goodbye,de
+4438226894499850872,No Intent,unknown
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.,No Intent,unknown
+"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",No Intent,unknown
+Хотите поделиться сегодняшней датой со мной?,get_date,ru
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+Wie sieht es gerade mit der Uhrzeit aus?,get_time,de
+"Могли бы вы проверить время для меня, пожалуйста?",get_time,ru
+58658303876673266,No Intent,unknown
+22111288993722173,No Intent,unknown
+87794623625494208,No Intent,unknown
+What might the time be at the moment?,get_time,en
+"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",No Intent,unknown
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+What's the date as per your calendar today?,get_date,en
+6w5xG9poo4MAe2Nj7DeGokJvfxu5GOItgAdpHm2a,No Intent,unknown
+She sells seashells by the seashore.,No Intent,unknown
+unknown:Hallo!,greet,unknown
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+unknown:Greetings!,greet,unknown
+0IMepNCpbS58hqZqFw5iOmkcrrs40,No Intent,unknown
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+unknown:Могу я спросить сегодняшнюю дату?,get_date,unknown
+"Haben Sie eine Ahnung, welches Datum heute ist?",get_date,de
+5960107526830423404,No Intent,unknown
+Mind letting me know what the date is today?,get_date,en
+The quick brown fox jumps over the lazy dog.,No Intent,unknown
+"Привет, приятно вас встретить!",greet,ru
+Können Sie mir bitte das heutige Datum offenlegen?,get_date,de
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",No Intent,unknown
+"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",No Intent,unknown
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.,No Intent,unknown
+7295185456110,No Intent,unknown
+o3AE5sede5NH9thS44SqvGQfspSmuAMwZ,No Intent,unknown
+Would you mind letting me know the time?,get_time,en
+How are you doing today?,greet,en
+JtdeyGEE6x7aKy28d2y14f3oCE3Dl,No Intent,unknown
+"Entschuldigung, haben Sie die Uhrzeit?",get_time,de
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.,No Intent,unknown
+Catch you later!,goodbye,en
+22111288993722173,No Intent,unknown
+Bleib sicher!,goodbye,de
+QbnBjy4hZwOUuEoYgrWK,No Intent,unknown
+Hey!,greet,en
+The quick brown fox jumps over the lazy dog.,No Intent,unknown
+Прощай!,goodbye,ru
+Wie geht es dir?,greet,de
+"Hey, nice to run into you!",greet,en
+"Hey, nice to run into you!",greet,en
+SZYSTtCRS6uB8BOZRI1wOULXYXhAmzdKZjGrzAcaitEYgI7k6cDEjRgbitztqyygrJReFrPZ0wmxtEBOTXEOk,No Intent,unknown
+"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",No Intent,unknown
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.,No Intent,unknown
+Goodbye for now!,goodbye,en
+4638567990306105819,No Intent,unknown
+All work and no play makes Jack a dull boy.,No Intent,unknown
+Сохраняйте веру!,goodbye,ru
+Dhj7LdRTzvGIQcFMCaciMKVug5rK2iwoBU5MJWGyv45eN5RL8ByAzgqV3fpskL8itFR9xe4Zhp9LAR2BiqQCFpnBCQUIxJ,No Intent,unknown
+601523035162845,No Intent,unknown
+HCFPxsdKQaFX0skjV721L4pb8fO3ag6KYCuMIckciuP7e3b85JbIyocIvyiSyGgrzYIHAgJG,No Intent,unknown
+What's the time looking like?,get_time,en
+WMryFdhkb9ALn4ywvY5WfJS4eKWYqD6FFY24tqqvCnY3O,No Intent,unknown
+"Hey, nice to run into you!",greet,en
+unknown:Как у вас дела?,greet,unknown
+"To be or not to be, that is the question.",No Intent,unknown
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.,No Intent,unknown
+"Не могли бы вы сообщить мне, какой сегодня день месяца?",get_date,ru
+"Могли бы вы проверить время для меня, пожалуйста?",get_time,ru
+All work and no play makes Jack a dull boy.,No Intent,unknown
+"To be or not to be, that is the question.",No Intent,unknown
+21680230889888,No Intent,unknown
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+Do you have the time handy?,get_time,en
+3qtKidEMfte12bU46nrYXoJHwjPgd63IPHr84hOSwwLt0HdG20qFpmouY2ZHFvzKbBB16hoNlh5GduAO3gUAGFOkM60y,No Intent,unknown
+She sells seashells by the seashore.,No Intent,unknown
+"Schön, dich zu sehen!",greet,de
+"Hi, how are you feeling?",greet,en
+Any chance you know what time it is?,get_time,en
+"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",No Intent,unknown
+Который час по вашему времени?,get_time,ru
+Can you reveal today's date to me?,get_date,en
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.,No Intent,unknown
+vI9OtdHrCqnNMtO1HMLI4CXZftBcP81Ka0uWfjrwbBSgY9Zf8ntBzH7UpvG2SGjrGlUdmoLwPsIwPzYyBUepfxFLnlbYIZhn,No Intent,unknown
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+The quick brown fox jumps over the lazy dog.,No Intent,unknown
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.,No Intent,unknown
+"Würden Sie so freundlich sein, mir die Uhrzeit mitzuteilen?",get_time,de
+9052423247199,No Intent,unknown
+wn7qElYzq4Rkqji9tv7rEyhUyk0mNwj,No Intent,unknown
+Würden Sie mich bitte über das heutige Datum informieren?,get_date,de
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.,No Intent,unknown
+She sells seashells by the seashore.,No Intent,unknown
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",No Intent,unknown
+unknown:Take it sleazy!,goodbye,unknown
+8438127982329,No Intent,unknown
+The quick brown fox jumps over the lazy dog.,No Intent,unknown
+unknown:До свидания!,goodbye,unknown
+Hab einen schönen Tag!,goodbye,de
+Nimm es leicht!,goodbye,de
+Können Sie etwas Licht auf das heutige Datum werfen?,get_date,de
+How's everything?,greet,en
+065100812226583,No Intent,unknown
+Z6zQ4z6jutlNMZP9puuQip18tsTgXRKSI4hePWmAtyoNPimdtz3Oj7QhmmEys7Y7fItbCvvCnDJvqFXJTlfWnNtCia5LuqqdKTu,No Intent,unknown
+Können Sie mir das heutige Datum sagen?,get_date,de
+Could you please inform me of the time?,get_time,en
+She sells seashells by the seashore.,No Intent,unknown
+Каково текущее время по вашему времени?,get_time,ru
+All work and no play makes Jack a dull boy.,No Intent,unknown
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",No Intent,unknown
+Behalte den Glauben!,goodbye,de
+Lovely to see you!,greet,en
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.,No Intent,unknown
+"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",No Intent,unknown
+All the best!,goodbye,en
+jjiuQgT45gWptWEL5Ltzj52hIhNd3d8fcb4Fv6kEoS78IFGeE30lrdtJBIC3pAQHexKaTgPfVphWfPqoet0eMDSWU9Htpfm,No Intent,unknown
+"Привет, приятно познакомиться!",greet,ru
+All work and no play makes Jack a dull boy.,No Intent,unknown
+Wie geht es dir?,greet,de
+s6zIUNEomiAMHMqb0gN2KK2mJL452kcgXMunzwj1Rd4e47kMeEEDewnU74RczwIfON4oQ1Tu,No Intent,unknown
+unknown:Как у вас дела?,greet,unknown
+unknown:Greetings!,greet,unknown
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",No Intent,unknown
+The quick brown fox jumps over the lazy dog.,No Intent,unknown
+Pass auf dich auf!,goodbye,de
+q5T7NMV9nFOXg3JKkcaZGflC4BerUwz4elV8CcE9xvcDIHt4J8eQslPjwuzH5yofFDxz4vIA7eopE296gMmmvyfjdqki2V,No Intent,unknown
+3089587136067,No Intent,unknown
+Mind telling me the date for today?,get_date,en
+The quick brown fox jumps over the lazy dog.,No Intent,unknown
+Do you know what the date is today?,get_date,en
+pxrp1gDuZTZJ97QhJOvqlMrLLHRbaOpVUUwk1vQG6FtJ65xAcOdZTQ1PMhaJnXZqybUF5S1oFQOcn3jLpn3hVuoNC,No Intent,unknown
+Können Sie mir bitte die Uhrzeit mitteilen?,get_time,de
+unknown:Prost!,goodbye,unknown
+The quick brown fox jumps over the lazy dog.,No Intent,unknown
+Hey!,greet,en
+"Hey, wie geht es dir?",greet,de
+08996479865976504,No Intent,unknown
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+All work and no play makes Jack a dull boy.,No Intent,unknown
+gnOOhLWKCBL4vrfKicjtIqUwbZUpmL74c2uD7FVpNWzRzsvPI,No Intent,unknown
+698237116874,No Intent,unknown
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",No Intent,unknown
+"Könnten Sie mir bitte sagen, wie spät es ist?",get_time,de
+All work and no play makes Jack a dull boy.,No Intent,unknown
+"Можете ли вы рассказать мне, какая сегодня дата?",get_date,ru
+Tschüssi!,goodbye,de
+auYncsahcUcHWE4prgqHS6u4xH7RHEVMKI50LydzSiA4ncX7AOY3zyM02maxMux9YPwnypWEZ60z9eAsHVv,No Intent,unknown
+All work and no play makes Jack a dull boy.,No Intent,unknown
+She sells seashells by the seashore.,No Intent,unknown
+Lebwohl!,goodbye,de
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",No Intent,unknown
+2269835,No Intent,unknown
+mIny0NQu2iMDjX0MUW7Aj4ptOXE77GNRWI9VuMKi9iYa9w7y1D6z0nx0TqZNApk1gUaV,No Intent,unknown
+All the best!,goodbye,en
+The quick brown fox jumps over the lazy dog.,No Intent,unknown
+3089587136067,No Intent,unknown
+Could you share today's date information with me?,get_date,en
+Bleib in Kontakt!,goodbye,de
+unknown:Cheers!,goodbye,unknown
+Будь здоров!,goodbye,ru
+How have you been?,greet,en
+Could you do me a favor and check the time?,get_time,en
+O1NPryJ827ScaGZZ50gTmGyXemFrjOlgKhsy17GHO97Ll8E2kff,No Intent,unknown
+cGcVjDEwKSjh5btFT1RbzJilZ3hvwtFgyhp5UUx61oXLPi0ARddTQKI,No Intent,unknown
+WX4jqbmHK0JHddtEV4gOdgwaWUw,No Intent,unknown
+09035171586088227893,No Intent,unknown
+JtdeyGEE6x7aKy28d2y14f3oCE3Dl,No Intent,unknown
+She sells seashells by the seashore.,No Intent,unknown
+059652826,No Intent,unknown
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",No Intent,unknown
+Wie läuft's?,greet,de
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.,No Intent,unknown
+708248539656127189,No Intent,unknown
+Bis zur Unendlichkeit und noch weiter!,goodbye,de
+Would you be able to tell me the time right now?,get_time,en
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+87794623625494208,No Intent,unknown
+eFc5pNcuXCNaS0f8vFI6SVoL1uvFzcy0QWoWT7MHm9Xi3yCB2LrUVuuHexI6VqQXZE,No Intent,unknown
+How are you holding up?,greet,en
+Tschüss für jetzt!,goodbye,de
+Peace out!,goodbye,en
+Можете ли вы проверить и подтвердить сегодняшнюю дату?,get_date,ru
+Take care!,goodbye,en
+Goodbye for now!,goodbye,en
+Top of the morning to you!,greet,en
+All work and no play makes Jack a dull boy.,No Intent,unknown
+Was ist heute für ein Datum?,get_date,de
+Wie könnte die Uhrzeit im Moment sein?,get_time,de
+Haben Sie gerade die Uhrzeit parat?,get_time,de
+Was ist heute für ein Datum?,get_date,de
+gA9WB1KGb0o6ey8xcp6DRgtInsOboNsxD2h98FYAbCGpniNoBc6rRL544qFaEb0l,No Intent,unknown
+Could you please inform me of the time?,get_time,en
+До скорого!,goodbye,ru
+What's the date according to your calendar today?,get_date,en
+280409997712,No Intent,unknown
+88322311569066655953,No Intent,unknown
+Can you let me know what date it is today?,get_date,en
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.,No Intent,unknown
+"Can you share the time with me, please?",get_time,en
+8qYPfhXlzKrPOfU9eNFbA8DqMNEGE0akrp7s5gv,No Intent,unknown
+579225629249,No Intent,unknown
+Können Sie mir bitte die Uhrzeit mitteilen?,get_time,de
+62689,No Intent,unknown
+The quick brown fox jumps over the lazy dog.,No Intent,unknown
+"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",No Intent,unknown
+Приветствую!,greet,ru
+"Извините, вы не могли бы сказать мне текущее время?",get_time,ru
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.,No Intent,unknown
+lGNOKXLRDa0TViD55RuGL8DXmbQbDKyQuVyt67ZM,No Intent,unknown
+"Hey, how's your week been?",greet,en
+unknown:Hallo!,greet,unknown
+Frieden und Liebe!,goodbye,de
+Could you inform me of the current time?,get_time,en
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+9052423247199,No Intent,unknown
+unknown:Howdy!,greet,unknown
+tsc7LtKsi1SDgDW0Cgm79TstuohV50TbcHSkGR,No Intent,unknown
+0437284,No Intent,unknown
+582442299197430,No Intent,unknown
+205840254462,No Intent,unknown
+601523035162845,No Intent,unknown
+Do you happen to know the time?,get_time,en
+До скорого!,goodbye,ru
+She sells seashells by the seashore.,No Intent,unknown
+5819517,No Intent,unknown
+"Würden Sie so freundlich sein, mir die Uhrzeit mitzuteilen?",get_time,de
+4638567990306105819,No Intent,unknown
+Wzc0uRMV38AoqN5Xy8KcJNlILcpKPBRTgIkQlaryAjhO0hTrAZuLu8rfiVh767dxhSYko6B,No Intent,unknown
+JrwHNh4rpRr4B1wqTgiU6POR6jlCiVZNVcUqNN,No Intent,unknown
+5960107526830423404,No Intent,unknown
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.,No Intent,unknown
+Würden Sie mir freundlicherweise die Uhrzeit mitteilen?,get_time,de
+Catch you on the flip side!,goodbye,en
+She sells seashells by the seashore.,No Intent,unknown
+291390605,No Intent,unknown
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.,No Intent,unknown
+Frieden und Liebe!,goodbye,de
+"In a while, crocodile!",goodbye,en
+Können Sie mir das heutige Datum sagen?,get_date,de
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.,No Intent,unknown
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.,No Intent,unknown
+All work and no play makes Jack a dull boy.,No Intent,unknown
+9479025858271,No Intent,unknown
+"unknown:Bis später, Alligator!",goodbye,unknown
+361282566082355710,No Intent,unknown
+It's great to see you!,greet,en
+Can you shed some light on the date for today?,get_date,en
+"So long, farewell!",goodbye,en
+All work and no play makes Jack a dull boy.,No Intent,unknown
+42404,No Intent,unknown
+"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",No Intent,unknown
+Darf ich nach dem heutigen Datum fragen?,get_date,de
+Добрый вечер!,greet,ru
+Könnten Sie das heutige Datum überprüfen und bestätigen?,get_date,de
+76547760763,No Intent,unknown
+"Есть ли у вас представление, какое сегодня число?",get_date,ru
+What might the time be at the moment?,get_time,en
+"Hallo, wie läuft dein Tag?",greet,de
+All work and no play makes Jack a dull boy.,No Intent,unknown
+651007231150844074,No Intent,unknown
+Would you mind sharing today's date with me?,get_date,en
+205840254462,No Intent,unknown
+8qYPfhXlzKrPOfU9eNFbA8DqMNEGE0akrp7s5gv,No Intent,unknown
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",No Intent,unknown
+"Можете ли вы рассказать мне время, пожалуйста?",get_time,ru
+Можете ли вы поделиться информацией о сегодняшней дате со мной?,get_date,ru
+unknown:Farewell!,goodbye,unknown
+54734961015253,No Intent,unknown
+Can you provide the date for today?,get_date,en
+"To be or not to be, that is the question.",No Intent,unknown
+pxrp1gDuZTZJ97QhJOvqlMrLLHRbaOpVUUwk1vQG6FtJ65xAcOdZTQ1PMhaJnXZqybUF5S1oFQOcn3jLpn3hVuoNC,No Intent,unknown
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.,No Intent,unknown
+The quick brown fox jumps over the lazy dog.,No Intent,unknown
+RAjUpoHSpswaB12RKZJlfI9ydTK08ZBJHnywLP3H1Y8mB6xr3xJTo8t6oyYNbmZ0innsPO6rCJWjle8TUdidAuebAW,No Intent,unknown
+150478225387200283,No Intent,unknown
+"Не могли бы вы сказать мне, который час сейчас?",get_time,ru
+773805265189,No Intent,unknown
+Do you have the time handy?,get_time,en
+0869552453697894,No Intent,unknown
+Mind filling me in on today's date?,get_date,en
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+unknown:Hallo!,greet,unknown
+708248539656127189,No Intent,unknown
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.,No Intent,unknown
+8438127982329,No Intent,unknown
+Какое сегодня число по календарю?,get_date,ru
+Wie spät ist es Ihrer Meinung nach?,get_time,de
+796312565,No Intent,unknown
+"To be or not to be, that is the question.",No Intent,unknown
+Mind sharing the time with me?,get_time,en
+Can you reveal today's date to me?,get_date,en
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.,No Intent,unknown
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",No Intent,unknown
+"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",No Intent,unknown
+Bis zur Unendlichkeit und noch weiter!,goodbye,de
+All work and no play makes Jack a dull boy.,No Intent,unknown
+"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",No Intent,unknown
+До следующей встречи!,goodbye,ru
+935652072454502,No Intent,unknown
+Сохраняйте веру!,goodbye,ru
+Сохраняйте веру!,goodbye,ru
+MR3m72tUhv6h11aT2NqlT2xFh1qF9uY8eRpe9VjbkcVtJldXmp32noizhTGpFICyiJiledNVTP4hSLdH6jamcgaavWnPVh,No Intent,unknown
+X0OIWIpcDaSBIfI6t6Q5oPo6K4AK9T1ufdSu3C5Lo,No Intent,unknown
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",No Intent,unknown
+Do you have the date handy for today?,get_date,en
+Can you let me know what time it is?,get_time,en
+unknown:Well met!,greet,unknown
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+Darf ich Sie nach der Uhrzeit fragen?,get_time,de
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",No Intent,unknown
+Mind telling me what time it is?,get_time,en
+"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",No Intent,unknown
+Grüße!,greet,de
+aAIA9AGZB6C7RVavRyN8RU9dge0HK1ZhFilOz,No Intent,unknown
+She sells seashells by the seashore.,No Intent,unknown
+Pass auf dich auf!,goodbye,de
+67735322071210903,No Intent,unknown
+vGci5zqm4uol7zR6Gjjse8ZGNTXxnEk3TXoV,No Intent,unknown
+Hi there!,greet,en
+"Hallo, wie geht es dir heute?",greet,de
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",No Intent,unknown
+The quick brown fox jumps over the lazy dog.,No Intent,unknown
+YE4UD8KxjhbFaqLjaZGjcRmXdgvmju3PjYYOe,No Intent,unknown
+"Hallo, nett dich kennenzulernen!",greet,de
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+The quick brown fox jumps over the lazy dog.,No Intent,unknown
+All work and no play makes Jack a dull boy.,No Intent,unknown
+I1c5Ohe6IhBQnWTibKlTrJffhXgiaTYUqsDIT0Rfo3oRfBku0Im3EPH4lWf7KIQK1xZlFlL,No Intent,unknown
+WMryFdhkb9ALn4ywvY5WfJS4eKWYqD6FFY24tqqvCnY3O,No Intent,unknown
+Do you happen to have the time on you?,get_time,en
+2820105727331311816,No Intent,unknown
+Прощай!,goodbye,ru
+Pass auf dich auf!,goodbye,de
+58375818022904,No Intent,unknown
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.,No Intent,unknown
+87794623625494208,No Intent,unknown
+"Не могли бы вы сказать мне, который час сейчас?",get_time,ru
+69489164809,No Intent,unknown
+0IMepNCpbS58hqZqFw5iOmkcrrs40,No Intent,unknown
+unknown:Howdy!,greet,unknown
+lGNOKXLRDa0TViD55RuGL8DXmbQbDKyQuVyt67ZM,No Intent,unknown
+RAjUpoHSpswaB12RKZJlfI9ydTK08ZBJHnywLP3H1Y8mB6xr3xJTo8t6oyYNbmZ0innsPO6rCJWjle8TUdidAuebAW,No Intent,unknown
+"Привет, что у вас нового?",greet,ru
+"Не могли бы вы сказать мне, который час сейчас?",get_time,ru
+"Могли бы вы проверить время для меня, пожалуйста?",get_time,ru
+Bis bald!,goodbye,en
+She sells seashells by the seashore.,No Intent,unknown
+6115235547888,No Intent,unknown
+"Hi, how's life treating you?",greet,en
+627881976540568939,No Intent,unknown
+tsc7LtKsi1SDgDW0Cgm79TstuohV50TbcHSkGR,No Intent,unknown
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.,No Intent,unknown
+Можете ли вы сообщить мне текущее время?,get_time,ru
+"Можете ли вы, пожалуйста, предоставить мне сегодняшнюю дату?",get_date,ru
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.,No Intent,unknown
+7651575760607,No Intent,unknown
+Catch you later!,goodbye,en
+Take it easy!,goodbye,en
+Есть ли у вас сегодняшняя дата под рукой?,get_date,ru
+"Hallo, wie geht es dir?",greet,de
+PH8q3BVzzzPs5yY3uELXfmoPehomxHnQJDnyeVr,No Intent,unknown
+unknown:Какова сегодняшняя дата?,get_date,unknown
+The quick brown fox jumps over the lazy dog.,No Intent,unknown
+Could you please provide me with today's date?,get_date,en
+7543145178107,No Intent,unknown
+tsc7LtKsi1SDgDW0Cgm79TstuohV50TbcHSkGR,No Intent,unknown
+0437284,No Intent,unknown
+Was ist los?,greet,en
+unknown:Как дела?,greet,unknown
+OiWFfynuBrSPHT4rN5jPiNzHovsOgeek5i5O4FVSJ,No Intent,unknown
+unknown:До свидания!,goodbye,unknown
+Can you provide the date for today?,get_date,en
+7295185456110,No Intent,unknown
+Прощай!,goodbye,ru
+7651575760607,No Intent,unknown
+"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",No Intent,unknown
+Доброе утро!,greet,ru
+56450693280387987676,No Intent,unknown
+"So long, farewell!",goodbye,en
+"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",No Intent,unknown
+"Какова текущая дата, если не возражаете, чтобы я спросил?",get_date,ru
+unknown:Hallo!,greet,unknown
+Until we meet again!,goodbye,en
+Was steht heute auf dem Kalender?,get_date,de
+The quick brown fox jumps over the lazy dog.,No Intent,unknown
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+unknown:Покедова!,goodbye,unknown
+"Привет, как ваш день?",greet,ru
+Have a great day!,goodbye,en
+All work and no play makes Jack a dull boy.,No Intent,unknown
+nV2T4d3xebXPBNTjRUbiECkBkfgynIJBvcfaHgu7ectQrwvEi2dowtfzmC8uS,No Intent,unknown
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.,No Intent,unknown
+2820105727331311816,No Intent,unknown
+3122088,No Intent,unknown
+Could you inform me of the date today?,get_date,en
+wn7qElYzq4Rkqji9tv7rEyhUyk0mNwj,No Intent,unknown
+05b65s49l4tHvsMk3QDDeTMkwun72DQA0OQp8mRiU39J59kliJLql6wOyFC1SlNbhXXZ1mZ3pdX,No Intent,unknown
+Keep in touch!,goodbye,en
+09035171586088227893,No Intent,unknown
+Can you shed some light on the date for today?,get_date,en
+"Привет, приятно вас встретить!",greet,ru
+56450693280387987676,No Intent,unknown
+Wie sieht das Datum für heute aus?,get_date,de
+Do you have a moment to tell me the time?,get_time,en
+7543145178107,No Intent,unknown
+"To be or not to be, that is the question.",No Intent,unknown
+She sells seashells by the seashore.,No Intent,unknown
+unknown:Take it sleazy!,goodbye,unknown
+"To be or not to be, that is the question.",No Intent,unknown
+Hbzrf91JEaKoe1uHSrXmXLV3MUIPhC2OH37gpz48z2Kkr1xsOkgvE3to3valJiNUetRdwovvzTLTu8xan8i7pYjX75Lt9j,No Intent,unknown
+"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",No Intent,unknown
+64793,No Intent,unknown
+8438127982329,No Intent,unknown
+All work and no play makes Jack a dull boy.,No Intent,unknown
+"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",No Intent,unknown
+Bis zum nächsten Mal!,goodbye,de
+29996101096201189256,No Intent,unknown
+"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",No Intent,unknown
+49185320051995911618,No Intent,unknown
+"Could you provide me with the current time, please?",get_time,en
+3440931556388,No Intent,unknown
+Оставайтесь на связи!,goodbye,ru
+The quick brown fox jumps over the lazy dog.,No Intent,unknown
+17855259849781866868,No Intent,unknown
+Well hello there!,greet,en
+"What's the time, please?",get_time,en
+"Могли бы вы проверить время для меня, пожалуйста?",get_time,ru
+v4404w9dcipn8J7dzNKlFrDCuiA7kadu9PQRN3vN,No Intent,unknown
+k56PYHv2VCWIvlNNUvrRmL8zmHhU5Gih6kdJo0KoVYZJLKpoTKc8ipyFQ6nJ1Jk6pScNMSp6M8JgvYVbsetl,No Intent,unknown
+What's the current time on your watch?,get_time,en
+M9rn3WFfNpfJTBbFkhmznauKbug1isIqYtqkbQSwPO8N2rPYW7K7DEA0APchxx3sFDhsSL6lU9B4G,No Intent,unknown
+eFc5pNcuXCNaS0f8vFI6SVoL1uvFzcy0QWoWT7MHm9Xi3yCB2LrUVuuHexI6VqQXZE,No Intent,unknown
+"Können Sie mir sagen, welches Datum heute ist?",get_date,de
+81666355457858,No Intent,unknown
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.,No Intent,unknown
+Take good care!,goodbye,en
+"Извините, можно узнать, который час?",get_time,ru
+She sells seashells by the seashore.,No Intent,unknown
+"To be or not to be, that is the question.",No Intent,unknown
+4909356103781945539,No Intent,unknown
+5960107526830423404,No Intent,unknown
+JaoeRImR0RcQW0jPck9bOGLNdyJ4cEGQMr1f,No Intent,unknown
+4909356103781945539,No Intent,unknown
+"To be or not to be, that is the question.",No Intent,unknown
+"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",No Intent,unknown
+"To be or not to be, that is the question.",No Intent,unknown
+065100812226583,No Intent,unknown
+"Можете ли вы рассказать мне, какая сегодня дата?",get_date,ru
+33sDKilc8JGSUZk1G84ilc4DT1QhnQg4t,No Intent,unknown
+Hi there!,greet,en
+Can you tell me what time it is now?,get_time,en
+"To be or not to be, that is the question.",No Intent,unknown
+Wie geht es dir heute?,greet,de
+unknown:Toodle-oo!,goodbye,unknown
+nV2T4d3xebXPBNTjRUbiECkBkfgynIJBvcfaHgu7ectQrwvEi2dowtfzmC8uS,No Intent,unknown
+The quick brown fox jumps over the lazy dog.,No Intent,unknown
+I6zxxI6IHKbNEnOUpULh9w,No Intent,unknown
+Welcher Tag des Monats ist heute?,get_date,de
+"Würden Sie so freundlich sein, mir die Uhrzeit mitzuteilen?",get_time,de
+Как ваши дела сегодня?,greet,ru
+She sells seashells by the seashore.,No Intent,unknown
+"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",No Intent,unknown
+Увидимся позже!,goodbye,ru
+Any chance you could tell me today's date?,get_date,en
+Top of the morning to you!,greet,en
+08996479865976504,No Intent,unknown
+227856,No Intent,unknown
+Bye for now!,goodbye,en
+Mach's gut!,goodbye,en
+"To be or not to be, that is the question.",No Intent,unknown
+What's the time looking like at the moment?,get_time,en
+Was ist los?,greet,en
+4051166,No Intent,unknown
+Haben Sie gerade die Uhrzeit parat?,get_time,de
+3122088,No Intent,unknown
+All work and no play makes Jack a dull boy.,No Intent,unknown
+"What's the time, please?",get_time,en
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",No Intent,unknown
+Wie spät ist es bitte?,get_time,de
+273637953139778523,No Intent,unknown
+5431973790389493,No Intent,unknown
+How are things with you?,greet,en
+The quick brown fox jumps over the lazy dog.,No Intent,unknown
+Добрый день!,greet,ru
+Could you do me a favor and check the time?,get_time,en
+lGNOKXLRDa0TViD55RuGL8DXmbQbDKyQuVyt67ZM,No Intent,unknown
+Bye for now!,goodbye,en
+Goodbye for now!,goodbye,en
+Можете ли вы подсказать мне текущее время?,get_time,ru
+47115919303,No Intent,unknown
+"Извините, вы не могли бы сказать мне текущее время?",get_time,ru
+Würden Sie mir die Uhrzeit verraten?,get_time,de
+"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",No Intent,unknown
+34931976506789103,No Intent,unknown
+May I ask for the current time from you?,get_time,en
+She sells seashells by the seashore.,No Intent,unknown
+Можете ли вы поделиться со мной сегодняшней датой?,get_date,ru
+How are you doing today?,greet,en
+96408,No Intent,unknown
+"Könnten Sie mir sagen, wie spät es jetzt ist?",get_time,de
+"unknown:Привет, как ваши дела?",greet,unknown
+unknown:So long!,goodbye,unknown
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",No Intent,unknown
+02287630246048614,No Intent,unknown
+"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",No Intent,unknown
+280409997712,No Intent,unknown
+She sells seashells by the seashore.,No Intent,unknown
+76572839440342047589,No Intent,unknown
+49185320051995911618,No Intent,unknown
+"Hi, how are you coping?",greet,en
+"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",No Intent,unknown
+Peace and love!,goodbye,en
+unknown:Привет!,greet,unknown
+Catch you later!,goodbye,en
+Fla1NaHi7rC13RlZYHajrVYFI6E2eiATpMayJcDUs0oJ5vWX1fIRRc5s4tJVUrtUzRRUUG2YH,No Intent,unknown
+До скорого!,goodbye,ru
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.,No Intent,unknown
+4896221282,No Intent,unknown
+Hbzrf91JEaKoe1uHSrXmXLV3MUIPhC2OH37gpz48z2Kkr1xsOkgvE3to3valJiNUetRdwovvzTLTu8xan8i7pYjX75Lt9j,No Intent,unknown
+Будь здоров!,goodbye,ru
+"Не могли бы вы сказать мне, сколько времени?",get_time,ru
+OwhfgteLAk5PYE9pXheyvNOTW04wYmoPNtpUIbeclQhAFCPxVkUdHssTiK3Yeqbt2h263v3bbzNpvq9ByaNr49MTAf6k,No Intent,unknown
+Any idea what the date is today?,get_date,en
+Könnten Sie mir bitte das heutige Datum angeben?,get_date,de
+227856,No Intent,unknown
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+"Könnten Sie mir bitte sagen, wie spät es ist?",get_time,de
+Wie spät ist es jetzt auf Ihrer Uhr?,get_time,de
+Catch you on the flip side!,goodbye,en
+0415046158812,No Intent,unknown
+"Can you share the time with me, please?",get_time,en
+Как ваши дела сегодня?,greet,ru
+Какова дата для сегодняшнего дня?,get_date,ru
+40726777972755,No Intent,unknown
+What's the date as per your calendar today?,get_date,en
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.,No Intent,unknown
+Хотите поделиться сегодняшней датой со мной?,get_date,ru
+88322311569066655953,No Intent,unknown
+"To be or not to be, that is the question.",No Intent,unknown
+Darf ich nach der Uhrzeit fragen?,get_time,de
+991978313,No Intent,unknown
+"Can you fill me in on the time, please?",get_time,en
+"Сколько времени, пожалуйста?",get_time,ru
+unknown:Как дела?,greet,unknown
+qaV0n96gwoYh4hikJ1CEN4z7wBCAs7BojnkThXse5rSGsoYxbUSTlGfnXWW9Kaq3nw1cOTKYl1,No Intent,unknown
+"unknown:Later, gator!",goodbye,unknown
+nV2T4d3xebXPBNTjRUbiECkBkfgynIJBvcfaHgu7ectQrwvEi2dowtfzmC8uS,No Intent,unknown
+"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",No Intent,unknown
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+5819517,No Intent,unknown
+83234,No Intent,unknown
+Bis bald!,goodbye,en
+"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",No Intent,unknown
+"Can you share the time with me, please?",get_time,en
+See you later!,goodbye,en
+wqYKQivZoGzZhDUQ2jkCh,No Intent,unknown
+Можете ли вы помочь мне и проверить время?,get_time,ru
+Guten Morgen!,greet,de
+The quick brown fox jumps over the lazy dog.,No Intent,unknown
+"У вас есть секунда, чтобы сказать мне, который час?",get_time,ru
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+She sells seashells by the seashore.,No Intent,unknown
+1wbpCwFfxfI0DAih2oSKFd5Ee4WO9wjlZ3SSPZS0h20nZ,No Intent,unknown
+YE4UD8KxjhbFaqLjaZGjcRmXdgvmju3PjYYOe,No Intent,unknown
+Would you be so kind as to let me know the time?,get_time,en
+unknown:Пока!,goodbye,unknown
+Würden Sie mir das heutige Datum verraten?,get_date,de
+Какова сегодняшняя дата по вашему календарю?,get_date,ru
+5149977951,No Intent,unknown
+До свидания на данный момент!,goodbye,ru
+Всего наилучшего!,goodbye,ru
+065100812226583,No Intent,unknown
+Darf ich nach dem heutigen Datum fragen?,get_date,de
+Tally-ho!,goodbye,en
+The quick brown fox jumps over the lazy dog.,No Intent,unknown
+03236,No Intent,unknown
+17855259849781866868,No Intent,unknown
+Could you inform me of the date today?,get_date,en
+unknown:Stay safe!,goodbye,unknown
+Tschüssi!,goodbye,de
+17855259849781866868,No Intent,unknown
+"Könnten Sie mir sagen, wie spät es ist?",get_time,de
+Какая сегодня дата?,get_date,ru
+9M08iJb9M3YuJkWiASUrg320yLfdLIlMEBp0k60yuTVun0zMJj7ncqV0Xz15mImbDs4J,No Intent,unknown
+Приветствую!,greet,ru
+Какова дата для сегодняшнего дня?,get_date,ru
+RgLGSdmmrmIvh2PeAgJapHbfjeCNsH5e4FWX8BfPdbn4ZD,No Intent,unknown
+Wie sieht das Datum für heute aus?,get_date,de
+Не могли бы вы просветить меня на сегодняшнюю дату?,get_date,ru
+Осторожнее!,goodbye,ru
+wqYKQivZoGzZhDUQ2jkCh,No Intent,unknown
+All work and no play makes Jack a dull boy.,No Intent,unknown
+Bleib in Kontakt!,goodbye,de
+357593,No Intent,unknown
+Bleib in Kontakt!,goodbye,de
+Есть ли у вас шанс сказать мне сегодняшнюю дату?,get_date,ru
+HRmIY1GiT9GJ7Vjk8ytxiUPD9FqJFKIbsCgFgg9ILfbFg4k9d1aX9RajZWDhJGcYrAWKmFqPpjHdoAlg0NNwJ24YObTWcP3gvu,No Intent,unknown
+22111288993722173,No Intent,unknown
+"Не могли бы вы сказать мне, который час сейчас?",get_time,ru
+"To be or not to be, that is the question.",No Intent,unknown
+Wie spät ist es Ihrer Meinung nach?,get_time,de
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.,No Intent,unknown
+"To be or not to be, that is the question.",No Intent,unknown
+"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",No Intent,unknown
+58375818022904,No Intent,unknown
+3440931556388,No Intent,unknown
+"Не могли бы вы сообщить мне, какой сегодня день месяца?",get_date,ru
+Catch you later!,goodbye,en
+Any insights on today's date?,get_date,en
+LPCrbz9LUGhxKSJ28uhOlfMSp0U9IieIuPi2zTkqxeQqMeXZdJHcR1olswBTIjrbHXc0SJopstGC0aBmtRnN,No Intent,unknown
+"To be or not to be, that is the question.",No Intent,unknown
+476819343038,No Intent,unknown
+0415046158812,No Intent,unknown
+40726777972755,No Intent,unknown
+All work and no play makes Jack a dull boy.,No Intent,unknown
+7J0UegY9OCsxY37nKZ3yOSGJKeEqYs5LRFpPO4J63z5ZD37IAa8sq3FZAMGCrqj,No Intent,unknown
+unknown:Greetings!,greet,unknown
+Добрый вечер!,greet,ru
+srvG34aK4KlLC0qCZ7QQjO3sNp9Ch4yp72I5ZThyXlMlSIsFVsvg2odb9w5wczNLeViAZAPUztINvRT,No Intent,unknown
+3440931556388,No Intent,unknown
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.,No Intent,unknown
+"To be or not to be, that is the question.",No Intent,unknown
+"Hey, how's your week been?",greet,en
+She sells seashells by the seashore.,No Intent,unknown
+"Could you provide me with the current time, please?",get_time,en
+Do you know what the date is today?,get_date,en
+Tschüss!,goodbye,de
+Есть ли у вас представление о сегодняшней дате?,get_date,ru
+Können Sie mir das Datum für heute mitteilen?,get_date,de
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",No Intent,unknown
+"Можете ли вы, пожалуйста, предоставить мне сегодняшнюю дату?",get_date,ru
+Какое сегодня число по календарю?,get_date,ru
+"Не могли бы вы сообщить мне, какой сегодня день месяца?",get_date,ru
+"Hey, how's your week been?",greet,en
+6071932391,No Intent,unknown
+816027111160061,No Intent,unknown
+All work and no play makes Jack a dull boy.,No Intent,unknown
+"Gibt es eine Chance, dass Sie mir das heutige Datum sagen könnten?",get_date,de
+"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",No Intent,unknown
+"Можете ли вы уточнить, который час?",get_time,ru
+All work and no play makes Jack a dull boy.,No Intent,unknown
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+"Привет, как ваша неделя проходит?",greet,ru
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.,No Intent,unknown
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.,No Intent,unknown
+"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",No Intent,unknown
+unknown:Cheers!,goodbye,unknown
+Any insights on today's date?,get_date,en
+"Haben Sie einen Moment, um mir die Uhrzeit zu sagen?",get_time,de
+All work and no play makes Jack a dull boy.,No Intent,unknown
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.,No Intent,unknown
+All work and no play makes Jack a dull boy.,No Intent,unknown
+How's it going?,greet,en
+She sells seashells by the seashore.,No Intent,unknown
+Bis bald!,goodbye,en
+"Hi, how have you been?",greet,en
+Would you mind sharing the time with me?,get_time,en
+Have a good one!,goodbye,en
+Any idea about today's date?,get_date,en
+Würden Sie mir freundlicherweise die Uhrzeit mitteilen?,get_time,de
+Guten Tag!,greet,de
+65135406,No Intent,unknown
+Как ваш день до сих пор проходит?,greet,ru
+v4404w9dcipn8J7dzNKlFrDCuiA7kadu9PQRN3vN,No Intent,unknown
+The quick brown fox jumps over the lazy dog.,No Intent,unknown
+Прощай!,goodbye,ru
+Wie könnte die Uhrzeit im Moment sein?,get_time,de
+844878263750254,No Intent,unknown
+How are you holding up?,greet,en
+"unknown:Bis später, Alligator!",goodbye,unknown
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+"Wissen Sie zufällig, wie spät es ist?",get_time,de
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.,No Intent,unknown
+k56PYHv2VCWIvlNNUvrRmL8zmHhU5Gih6kdJo0KoVYZJLKpoTKc8ipyFQ6nJ1Jk6pScNMSp6M8JgvYVbsetl,No Intent,unknown
+Wir sehen uns!,goodbye,de
+Könnten Sie mir das Datum für heute nennen?,get_date,de
+unknown:Take it sleazy!,goodbye,unknown
+91008784,No Intent,unknown
+Есть ли обновления о сегодняшней дате?,get_date,ru
+Gut getroffen!,greet,de
+Darf ich nach der Uhrzeit fragen?,get_time,de
+unknown:Bye-bye!,goodbye,unknown
+"Извините, вы не могли бы сказать мне текущее время?",get_time,ru
+s6zIUNEomiAMHMqb0gN2KK2mJL452kcgXMunzwj1Rd4e47kMeEEDewnU74RczwIfON4oQ1Tu,No Intent,unknown
+unknown:Cheers!,goodbye,unknown
+Haben Sie irgendwelche Informationen über das heutige Datum?,get_date,de
+"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",No Intent,unknown
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+wn7qElYzq4Rkqji9tv7rEyhUyk0mNwj,No Intent,unknown
+Would you mind sharing the time with me?,get_time,en
+"Hey, wie geht es dir?",greet,de
+"Schön, dich anzutreffen!",greet,de
+Приятно познакомиться!,greet,ru
+Bleib gesund!,goodbye,de
+627881976540568939,No Intent,unknown
+"Wissen Sie zufällig, welches Datum heute ist?",get_date,de
+"To be or not to be, that is the question.",No Intent,unknown
+Вы не могли бы сказать мне время?,get_time,ru
+У вас есть время на руках?,get_time,ru
+To infinity and beyond!,goodbye,en
+unknown:Пока!,goodbye,unknown
+Könnten Sie bitte die Uhrzeit für mich überprüfen?,get_time,de
+"Wissen Sie zufällig, wie spät es ist?",get_time,de
+Einen schönen guten Morgen!,greet,de
+Was ist los?,greet,en
+До следующей встречи!,goodbye,ru
+"Есть ли у вас представление, какое сегодня число?",get_date,ru
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+unknown:Toodle-oo!,goodbye,unknown
+"unknown:Hi, how's your day?",greet,unknown
+Bis zum nächsten Mal!,goodbye,de
+796312565,No Intent,unknown
+"Können Sie mich über die Uhrzeit aufklären, bitte?",get_time,de
+I2A3d2ugOcFzZQM1V88A5UCcfpAb36kqMP4Qj7t2RHX8tc8t45xGEY73,No Intent,unknown
+08996479865976504,No Intent,unknown
+"To be or not to be, that is the question.",No Intent,unknown
+unknown:Как ваши дела?,greet,unknown
+Could you check and confirm today's date?,get_date,en
+"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",No Intent,unknown
+"Haben Sie einen Moment, um mir die Uhrzeit zu sagen?",get_time,de
+Good afternoon!,greet,en
+Do you have a second to tell me what time it is?,get_time,en
+0662636,No Intent,unknown
+Frieden und Liebe!,goodbye,de
+Frieden und Liebe!,goodbye,de
+До скорого!,goodbye,ru
+gnOOhLWKCBL4vrfKicjtIqUwbZUpmL74c2uD7FVpNWzRzsvPI,No Intent,unknown
+She sells seashells by the seashore.,No Intent,unknown
+unknown:Good evening!,greet,unknown
+iyLlvXGUw8sUBthttuRAREnkT,No Intent,unknown
+She sells seashells by the seashore.,No Intent,unknown
+Легкой походки!,goodbye,ru
+All work and no play makes Jack a dull boy.,No Intent,unknown
+"Hey, nice to run into you!",greet,en
+Есть ли у вас сегодняшняя дата под рукой?,get_date,ru
+4898465463978,No Intent,unknown
+Как ваш день до сих пор проходит?,greet,ru
+Jq5KcyUJpzIVLvdo4Bbb3uxB7TG,No Intent,unknown
+Can you tell me today's date?,get_date,en
+B0PXE8cV9tpUvB3BpLvUP,No Intent,unknown
+unknown:Prost!,goodbye,unknown
+Good to meet you!,greet,en
+Tschüss!,goodbye,de
+All work and no play makes Jack a dull boy.,No Intent,unknown
+"To be or not to be, that is the question.",No Intent,unknown
+"Haben Sie eine Vorstellung, welches Datum heute ist?",get_date,de
+889488439056284,No Intent,unknown
+Всего наилучшего!,goodbye,ru
+Könnten Sie bitte die Uhrzeit für mich überprüfen?,get_time,de
+t893dhTuseISOb1pITbOvIxSorOn76w6llXdBQPfMYAQxYJSboNYxy2JHlwiG0GtbGLHrlqrElKYqZxGGH9GXoO65t61m2pSKb,No Intent,unknown
+"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",No Intent,unknown
+Какое сегодня число по календарю?,get_date,ru
+Bis später!,goodbye,de
+RAnR6wx2s4OivHzduj1zxA95RS2zuSambE6nIP12HYP4wmstoH5,No Intent,unknown
+unknown:Adios!,goodbye,unknown
+"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",No Intent,unknown
+unknown:Until next time!,goodbye,unknown
+"Знаете ли вы, который час?",get_time,ru
+DesP7jPGT9WFvXW2Idcamo26a9EOSazorc2HmOeEFRWr4KRETiQlnLMW5r,No Intent,unknown
+85695468110693223,No Intent,unknown
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.,No Intent,unknown
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.,No Intent,unknown
+0DgYe5w0R6Z0OoDg9cj8yu1a1c421ZWMMkX9ubCJhPLPros6v0UKzQHb7DVbnNmHS4JbsWvr608SyWEz07HI5fi,No Intent,unknown
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+The quick brown fox jumps over the lazy dog.,No Intent,unknown
+"Можете ли вы поделиться со мной временем, пожалуйста?",get_time,ru
+How have you been?,greet,en
+7886451,No Intent,unknown
+"Можете ли вы рассказать мне, какая сегодня дата?",get_date,ru
+The quick brown fox jumps over the lazy dog.,No Intent,unknown
+"unknown:Привет, как ваши дела?",greet,unknown
+"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",No Intent,unknown
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",No Intent,unknown
+cGcVjDEwKSjh5btFT1RbzJilZ3hvwtFgyhp5UUx61oXLPi0ARddTQKI,No Intent,unknown
+Could you check and confirm today's date?,get_date,en
+"To be or not to be, that is the question.",No Intent,unknown
+Gut getroffen!,greet,de
+Можете ли вы раскрыть сегодняшнюю дату мне?,get_date,ru
+unknown:Привет!,greet,unknown
+iyLlvXGUw8sUBthttuRAREnkT,No Intent,unknown
+Have a great day!,goodbye,en
+Mind telling me the date for today?,get_date,en
+0662636,No Intent,unknown
+Well hello there!,greet,en
+4329744183,No Intent,unknown
+"To be or not to be, that is the question.",No Intent,unknown
+Can you clue me in on the time right now?,get_time,en
+Не могли бы вы любезно сказать мне время?,get_time,ru
+qaV0n96gwoYh4hikJ1CEN4z7wBCAs7BojnkThXse5rSGsoYxbUSTlGfnXWW9Kaq3nw1cOTKYl1,No Intent,unknown
+"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",No Intent,unknown
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",No Intent,unknown
+d5tqpn5RD1tfOH1husBYgDk0JZnRxUEmDxjQY3DjeNqGQYK23SmM4CGeHqI1gQBg7EKU6o5IRJptKjmDV5BZLiJWn,No Intent,unknown
+273637953139778523,No Intent,unknown
+unknown:Hasta la vista!,goodbye,unknown
+unknown:Hallo!,greet,unknown
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+Fla1NaHi7rC13RlZYHajrVYFI6E2eiATpMayJcDUs0oJ5vWX1fIRRc5s4tJVUrtUzRRUUG2YH,No Intent,unknown
+До бесконечности и дальше!,goodbye,ru
+The quick brown fox jumps over the lazy dog.,No Intent,unknown
+Сохраняйте веру!,goodbye,ru
+What's the date today?,get_date,en
+329995268589103,No Intent,unknown
+unknown:Until next time!,goodbye,unknown
+"Würden Sie so freundlich sein, mir die Uhrzeit mitzuteilen?",get_time,de
+Mind letting me know what the date is today?,get_date,en
+"Hey, wie läuft deine Woche?",greet,de
+"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",No Intent,unknown
+Wie sieht das Datum auf Ihrem Kalender für heute aus?,get_date,de
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.,No Intent,unknown
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+"So long, farewell!",goodbye,en
+Would you be able to tell me the time right now?,get_time,en
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+She sells seashells by the seashore.,No Intent,unknown
+All work and no play makes Jack a dull boy.,No Intent,unknown
+vGci5zqm4uol7zR6Gjjse8ZGNTXxnEk3TXoV,No Intent,unknown
+"Привет, как ваша неделя проходит?",greet,ru
+Do you have a second to tell me what time it is?,get_time,en
+361282566082355710,No Intent,unknown
+935652072454502,No Intent,unknown
+Guten Tag!,greet,de
+Можете ли вы раскрыть сегодняшнюю дату мне?,get_date,ru
+srvG34aK4KlLC0qCZ7QQjO3sNp9Ch4yp72I5ZThyXlMlSIsFVsvg2odb9w5wczNLeViAZAPUztINvRT,No Intent,unknown
+Здравствуйте!,greet,ru
+"To be or not to be, that is the question.",No Intent,unknown
+V1JQtvHOK4n04Yy4QAJGRIsBfd7SuK6x8mblBnSuMZhbf0DBnH6JM,No Intent,unknown
+42404,No Intent,unknown
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.,No Intent,unknown
+Wie geht's?,greet,de
+"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",No Intent,unknown
+Каково время в данный момент?,get_time,ru
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.,No Intent,unknown
+Какова сегодняшняя дата по вашему календарю?,get_date,ru
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.,No Intent,unknown
+What day of the month is it today?,get_date,en
+6071932391,No Intent,unknown
+Есть ли у вас шанс сказать мне сегодняшнюю дату?,get_date,ru
+"Could you check the time for me, please?",get_time,en
+What's the date according to your calendar today?,get_date,en
+ruF1icAit3FZoztekeoJKMlFRyo2,No Intent,unknown
+gA9WB1KGb0o6ey8xcp6DRgtInsOboNsxD2h98FYAbCGpniNoBc6rRL544qFaEb0l,No Intent,unknown
+Einen schönen guten Morgen!,greet,de
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",No Intent,unknown
+Well hello there!,greet,en
+4898465463978,No Intent,unknown
+6w5xG9poo4MAe2Nj7DeGokJvfxu5GOItgAdpHm2a,No Intent,unknown
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+Can you let me know what time it is?,get_time,en
+"To be or not to be, that is the question.",No Intent,unknown
+QbnBjy4hZwOUuEoYgrWK,No Intent,unknown
+"To be or not to be, that is the question.",No Intent,unknown
+"Можете ли вы рассказать мне время, пожалуйста?",get_time,ru
+"Hi, how have you been?",greet,en
+What's up?,greet,en
+58658303876673266,No Intent,unknown
+"Привет, как вам жизнь?",greet,ru
+Можете ли вы сказать мне сегодняшнюю дату?,get_date,ru
+Würden Sie mir die Uhrzeit verraten?,get_time,de
+91008784,No Intent,unknown
+Guten Tag!,greet,de
+The quick brown fox jumps over the lazy dog.,No Intent,unknown
+03236,No Intent,unknown
+Как ваш день до сих пор проходит?,greet,ru
+She sells seashells by the seashore.,No Intent,unknown
+"Привет, что нового?",greet,ru
+397239449,No Intent,unknown
+Könnten Sie mir bitte Informationen über das heutige Datum geben?,get_date,de
+61413700315,No Intent,unknown
+52858329614,No Intent,unknown
+Can you check the time for me?,get_time,en
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+YE4UD8KxjhbFaqLjaZGjcRmXdgvmju3PjYYOe,No Intent,unknown
+Könnten Sie mir das Datum für heute nennen?,get_date,de
+Какова сегодняшняя дата по вашему календарю?,get_date,ru
+"To be or not to be, that is the question.",No Intent,unknown
+All the best!,goodbye,en
+All the best!,goodbye,en
+"Можете ли вы, пожалуйста, предоставить мне сегодняшнюю дату?",get_date,ru
+Any intel on today's date?,get_date,en
+065100812226583,No Intent,unknown
+579225629249,No Intent,unknown
+Do you have a moment to tell me the time?,get_time,en
+All work and no play makes Jack a dull boy.,No Intent,unknown
+1wbpCwFfxfI0DAih2oSKFd5Ee4WO9wjlZ3SSPZS0h20nZ,No Intent,unknown
+"Можете ли вы рассказать мне, какая сегодня дата?",get_date,ru
+Might I inquire about the time?,get_time,en
+Какова дата по вашему календарю сегодня?,get_date,ru
+"Können Sie mir sagen, wie spät es jetzt ist?",get_time,de
+"To be or not to be, that is the question.",No Intent,unknown
+Всего наилучшего!,goodbye,ru
+Peace and love!,goodbye,en
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.,No Intent,unknown
+"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",No Intent,unknown
+9820637864732,No Intent,unknown
+"To be or not to be, that is the question.",No Intent,unknown
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+X0OIWIpcDaSBIfI6t6Q5oPo6K4AK9T1ufdSu3C5Lo,No Intent,unknown
+Можете ли вы сообщить мне сегодняшнюю дату?,get_date,ru
+"Could you check the time for me, please?",get_time,en
+All work and no play makes Jack a dull boy.,No Intent,unknown
+All work and no play makes Jack a dull boy.,No Intent,unknown
+unknown:Cheers!,goodbye,unknown
+unknown:Till we meet again!,goodbye,unknown
+Could you check and confirm today's date?,get_date,en
+The quick brown fox jumps over the lazy dog.,No Intent,unknown
+unknown:Как обстоят дела с временем?,get_time,unknown
+Nimm es leicht!,goodbye,de
+Auf Wiedersehen für jetzt!,goodbye,de
+Есть ли у вас шанс сказать мне сегодняшнюю дату?,get_date,ru
+The quick brown fox jumps over the lazy dog.,No Intent,unknown
+wqYKQivZoGzZhDUQ2jkCh,No Intent,unknown
+64853562142,No Intent,unknown
+Haben Sie irgendwelche Informationen über das heutige Datum?,get_date,de
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",No Intent,unknown
+All work and no play makes Jack a dull boy.,No Intent,unknown
+Could you inform me of the current time?,get_time,en
+21680230889888,No Intent,unknown
+"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",No Intent,unknown
+All work and no play makes Jack a dull boy.,No Intent,unknown
+Wie läuft dein Tag bisher?,greet,de
+"Hi, how's life treating you?",greet,en
+"Haben Sie einen Moment, um mir die Uhrzeit zu sagen?",get_time,de
+40157831846,No Intent,unknown
+2475055429,No Intent,unknown
+36296844313,No Intent,unknown
+MEooOm9lv2G1ZrNdj8wKGMbmRLqeicmm107xko2mK3O6B0K2YafjcARwsCrqpU,No Intent,unknown
+How's it going?,greet,en
+RcnzmnIXYEA81gKGJnMcjDEVduftgp59tTzKZgItOXYFVzo41of58LXtRDXhsf,No Intent,unknown
+02287630246048614,No Intent,unknown
+agtVUht1eyvG8eD4exgU7XmQuXkmtxXqtSZr9jXYC5iRXIe1bFqSgWhWHHlcaVh4g9O5jFtZS,No Intent,unknown
+Catch you on the flip side!,goodbye,en
+"To be or not to be, that is the question.",No Intent,unknown
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.,No Intent,unknown
+Hbzrf91JEaKoe1uHSrXmXLV3MUIPhC2OH37gpz48z2Kkr1xsOkgvE3to3valJiNUetRdwovvzTLTu8xan8i7pYjX75Lt9j,No Intent,unknown
+Рад вас видеть!,greet,ru
+Have a good one!,goodbye,en
+"Wissen Sie zufällig, welches Datum heute ist?",get_date,de
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+Have a great day!,goodbye,en
+Есть ли у вас какие-либо детали о сегодняшней дате?,get_date,ru
+0DgYe5w0R6Z0OoDg9cj8yu1a1c421ZWMMkX9ubCJhPLPros6v0UKzQHb7DVbnNmHS4JbsWvr608SyWEz07HI5fi,No Intent,unknown
+4638567990306105819,No Intent,unknown
+Welcher Tag des Monats ist heute?,get_date,de
+"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",No Intent,unknown
+Увидимся позже!,goodbye,ru
+"Не могли бы вы сказать мне, сколько времени?",get_time,ru
+Keep the faith!,goodbye,en
+"What's the time, please?",get_time,en
+9M08iJb9M3YuJkWiASUrg320yLfdLIlMEBp0k60yuTVun0zMJj7ncqV0Xz15mImbDs4J,No Intent,unknown
+Guten Morgen!,greet,de
+The quick brown fox jumps over the lazy dog.,No Intent,unknown
+Good to meet you!,greet,en
+4051985650806,No Intent,unknown
+unknown:Привет!,greet,unknown
+All work and no play makes Jack a dull boy.,No Intent,unknown
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.,No Intent,unknown
+rxtDq0HM4EqkPKqSHQFREm6rlZt2hfvG8Q5TPlJN0rxwSDA6ws4RcXBEiE6GtzQSjDPfcXDb2PX6yXuuBi50huzm6Ul3jnPT,No Intent,unknown
+40726777972755,No Intent,unknown
+"To be or not to be, that is the question.",No Intent,unknown
+293023523066379,No Intent,unknown
+Доброе утро!,greet,ru
+Könnten Sie mich über die aktuelle Uhrzeit informieren?,get_time,de
+t2dWK8mAPagaHkunq43pfIGar0Mk0RXhyBetpuYz46ngVcu3Nbf1FUcSMWKjeRx1WBBKO415W,No Intent,unknown
+Рад вас видеть!,greet,ru
+Mind telling me the date for today?,get_date,en
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+She sells seashells by the seashore.,No Intent,unknown
+"To be or not to be, that is the question.",No Intent,unknown
+3089587136067,No Intent,unknown
+"To be or not to be, that is the question.",No Intent,unknown
+"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",No Intent,unknown
+What's the date on the calendar today?,get_date,en
+"To be or not to be, that is the question.",No Intent,unknown
+cGcVjDEwKSjh5btFT1RbzJilZ3hvwtFgyhp5UUx61oXLPi0ARddTQKI,No Intent,unknown
+"Можете ли вы, пожалуйста, предоставить мне сегодняшнюю дату?",get_date,ru
+v4404w9dcipn8J7dzNKlFrDCuiA7kadu9PQRN3vN,No Intent,unknown
+9820637864732,No Intent,unknown
+"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",No Intent,unknown
+Wie sieht das Datum für heute aus?,get_date,de
+Do you have the date at your fingertips for today?,get_date,en
+cGcVjDEwKSjh5btFT1RbzJilZ3hvwtFgyhp5UUx61oXLPi0ARddTQKI,No Intent,unknown
+227856,No Intent,unknown
+unknown:So long!,goodbye,unknown
+"Pardon me, could you share the current time with me?",get_time,en
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.,No Intent,unknown
+"Можете ли вы, пожалуйста, сообщить мне время?",get_time,ru
+Well hello there!,greet,en
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.,No Intent,unknown
+"Есть ли у вас представление, какое сегодня число?",get_date,ru
+"Können Sie mir sagen, welches Datum heute ist?",get_date,de
+10037622,No Intent,unknown
+205840254462,No Intent,unknown
+"unknown:Bis später, Krokodil!",goodbye,unknown
+Can you disclose today's date to me?,get_date,en
+Wie läuft es bei dir?,greet,de
+87794623625494208,No Intent,unknown
+60829458667,No Intent,unknown
+38189925168865,No Intent,unknown
+The quick brown fox jumps over the lazy dog.,No Intent,unknown
+"Через некоторое время, крокодил!",goodbye,ru
+She sells seashells by the seashore.,No Intent,unknown
+"До встречи, крокодил!",goodbye,ru
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.,No Intent,unknown
+7446604,No Intent,unknown
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+B0PXE8cV9tpUvB3BpLvUP,No Intent,unknown
+Can you check the time for me?,get_time,en
+"unknown:Hi, how's your day?",greet,unknown
+Рад вас видеть!,greet,ru
+q5T7NMV9nFOXg3JKkcaZGflC4BerUwz4elV8CcE9xvcDIHt4J8eQslPjwuzH5yofFDxz4vIA7eopE296gMmmvyfjdqki2V,No Intent,unknown
+8qYPfhXlzKrPOfU9eNFbA8DqMNEGE0akrp7s5gv,No Intent,unknown
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",No Intent,unknown
+Gut getroffen!,greet,de
+zl6Uov1ZpMUc0jRiiKlXxSQyDRUsqdcYpshhJGcqvvx7Ut4zdGRQmGaJmFoRltYhO9pDquLVvm,No Intent,unknown
+4051166,No Intent,unknown
+"Привет, приятно познакомиться!",greet,ru
+t2dWK8mAPagaHkunq43pfIGar0Mk0RXhyBetpuYz46ngVcu3Nbf1FUcSMWKjeRx1WBBKO415W,No Intent,unknown
+The quick brown fox jumps over the lazy dog.,No Intent,unknown
+"Haben Sie eine Ahnung, welches Datum heute ist?",get_date,de
+"Через некоторое время, крокодил!",goodbye,ru
+"To be or not to be, that is the question.",No Intent,unknown
+58658303876673266,No Intent,unknown
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+unknown:Ciao!,goodbye,unknown
+Alles Gute!,goodbye,fr
+10037622,No Intent,unknown
+Можете ли вы подсказать мне текущее время?,get_time,ru
+33sDKilc8JGSUZk1G84ilc4DT1QhnQg4t,No Intent,unknown
+"Könnten Sie mir sagen, wie spät es jetzt ist?",get_time,de
+Do you have a second to tell me what time it is?,get_time,en
+Приятно познакомиться!,greet,ru
+Darf ich nach dem heutigen Datum fragen?,get_date,de
+I1c5Ohe6IhBQnWTibKlTrJffhXgiaTYUqsDIT0Rfo3oRfBku0Im3EPH4lWf7KIQK1xZlFlL,No Intent,unknown
+"To be or not to be, that is the question.",No Intent,unknown
+5819517,No Intent,unknown
+X0OIWIpcDaSBIfI6t6Q5oPo6K4AK9T1ufdSu3C5Lo,No Intent,unknown
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.,No Intent,unknown
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",No Intent,unknown
+Прощай!,goodbye,ru
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",No Intent,unknown
+She sells seashells by the seashore.,No Intent,unknown
+"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",No Intent,unknown
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+"Excuse me, do you have the time?",get_time,en
+Пока на этом!,goodbye,ru
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+iyLlvXGUw8sUBthttuRAREnkT,No Intent,unknown
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",No Intent,unknown
+"Wissen Sie zufällig, wie spät es ist?",get_time,de
+unknown:Greetings!,greet,unknown
+"To be or not to be, that is the question.",No Intent,unknown
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.,No Intent,unknown
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.,No Intent,unknown
+Z6zQ4z6jutlNMZP9puuQip18tsTgXRKSI4hePWmAtyoNPimdtz3Oj7QhmmEys7Y7fItbCvvCnDJvqFXJTlfWnNtCia5LuqqdKTu,No Intent,unknown
+У вас есть сегодняшняя дата под рукой?,get_date,ru
+Есть ли у вас представление о сегодняшней дате?,get_date,ru
+I6zxxI6IHKbNEnOUpULh9w,No Intent,unknown
+"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",No Intent,unknown
+Mach's locker!,goodbye,en
+JrwHNh4rpRr4B1wqTgiU6POR6jlCiVZNVcUqNN,No Intent,unknown
+"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",No Intent,unknown
+"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",No Intent,unknown
+RAjUpoHSpswaB12RKZJlfI9ydTK08ZBJHnywLP3H1Y8mB6xr3xJTo8t6oyYNbmZ0innsPO6rCJWjle8TUdidAuebAW,No Intent,unknown
+9M08iJb9M3YuJkWiASUrg320yLfdLIlMEBp0k60yuTVun0zMJj7ncqV0Xz15mImbDs4J,No Intent,unknown
+"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",No Intent,unknown
+280409997712,No Intent,unknown
+Darf ich nach dem heutigen Datum fragen?,get_date,de
+Könnten Sie mir bitte das heutige Datum mitteilen?,get_date,de
+"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",No Intent,unknown
+"Schön, dich kennenzulernen!",greet,de
+She sells seashells by the seashore.,No Intent,unknown
+Grüß Gott!,greet,de
+unknown:Stay safe!,goodbye,unknown
+023543491574018894,No Intent,unknown
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",No Intent,unknown
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.,No Intent,unknown
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.,No Intent,unknown
+jjiuQgT45gWptWEL5Ltzj52hIhNd3d8fcb4Fv6kEoS78IFGeE30lrdtJBIC3pAQHexKaTgPfVphWfPqoet0eMDSWU9Htpfm,No Intent,unknown
+FCVAUIKCfN5KAHFmrwu4sUIB2959X7gqI2b5wgNliY8Kf0AsDU1R0NA,No Intent,unknown
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+Good morning!,greet,en
+Could you do me a favor and check the time?,get_time,en
+Do you have a moment to tell me the time?,get_time,en
+"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",No Intent,unknown
+"To be or not to be, that is the question.",No Intent,unknown
+"To be or not to be, that is the question.",No Intent,unknown
+"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",No Intent,unknown
+"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",No Intent,unknown
+She sells seashells by the seashore.,No Intent,unknown
+7446604,No Intent,unknown
+"Вы не могли бы сказать мне, который час?",get_time,ru
+Можете ли вы поделиться информацией о сегодняшней дате со мной?,get_date,ru
+Könnten Sie mich über die aktuelle Uhrzeit aufklären?,get_time,de
+k56PYHv2VCWIvlNNUvrRmL8zmHhU5Gih6kdJo0KoVYZJLKpoTKc8ipyFQ6nJ1Jk6pScNMSp6M8JgvYVbsetl,No Intent,unknown
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",No Intent,unknown
+How's it going?,greet,en
+7651575760607,No Intent,unknown
+Could you tell me what time it is?,get_time,en
+Береги себя!,goodbye,ru
+58375818022904,No Intent,unknown
+All work and no play makes Jack a dull boy.,No Intent,unknown
+OwhfgteLAk5PYE9pXheyvNOTW04wYmoPNtpUIbeclQhAFCPxVkUdHssTiK3Yeqbt2h263v3bbzNpvq9ByaNr49MTAf6k,No Intent,unknown
+All work and no play makes Jack a dull boy.,No Intent,unknown
+Oufpd3g1T6EujqYudUr2t69rn6NnTEJ8XsIYOzSvVe2QAWoelgenn1YcjJyJ0s2MtYb6VuscM6LbxY83QwUk3zY8vAlp9HnylbI,No Intent,unknown
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.,No Intent,unknown
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",No Intent,unknown
+Do you have a second to tell me what time it is?,get_time,en
+Any insights on today's date?,get_date,en
+7J0UegY9OCsxY37nKZ3yOSGJKeEqYs5LRFpPO4J63z5ZD37IAa8sq3FZAMGCrqj,No Intent,unknown
+8903705,No Intent,unknown
+9Kar0Iioa7CfHSX43qfdbbtrl3DqYQu0dRmhXtoETMoazLBFUM2trJ6VFJZao50xdAOjadF2LlsqWr,No Intent,unknown
+Береги себя!,goodbye,ru
+Hab einen schönen Tag!,goodbye,de
+Mach's locker!,goodbye,en
+"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",No Intent,unknown
+The quick brown fox jumps over the lazy dog.,No Intent,unknown
+DDikNeQcJZ6FygQAeUcc2Tv5X6qK,No Intent,unknown
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.,No Intent,unknown
+All work and no play makes Jack a dull boy.,No Intent,unknown
+"To be or not to be, that is the question.",No Intent,unknown
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.,No Intent,unknown
+58315,No Intent,unknown
+"Hey, was gibt's Neues?",greet,en
+96408,No Intent,unknown
+61413700315,No Intent,unknown
+Можете ли вы помочь мне и сообщить сегодняшнюю дату?,get_date,ru
+"To be or not to be, that is the question.",No Intent,unknown
+Hey!,greet,en
+VqxO1Y5S1PEQvZycldVEOKj1vtX0JSCfPh8SK44hdn6mX8VoUOxAbNWGlV64TFF6Jt63g,No Intent,unknown
+What's the date on the calendar today?,get_date,en
+Не могли бы вы просветить меня на сегодняшнюю дату?,get_date,ru
+Wie sieht es mit der Uhrzeit aus?,get_time,de
+The quick brown fox jumps over the lazy dog.,No Intent,unknown
+Could you please inform me of the time?,get_time,en
+"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",No Intent,unknown
+Есть ли у вас какие-либо идеи о сегодняшней дате?,get_date,ru
+cGcVjDEwKSjh5btFT1RbzJilZ3hvwtFgyhp5UUx61oXLPi0ARddTQKI,No Intent,unknown
+gnOOhLWKCBL4vrfKicjtIqUwbZUpmL74c2uD7FVpNWzRzsvPI,No Intent,unknown
+Guten Morgen!,greet,de
+"In a while, crocodile!",goodbye,en
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.,No Intent,unknown
+185349876494355128,No Intent,unknown
+Есть ли у вас какие-либо детали о сегодняшней дате?,get_date,ru
+Good to meet you!,greet,en
+09035171586088227893,No Intent,unknown
+Can you shed some light on the date for today?,get_date,en
+81666355457858,No Intent,unknown
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+Können Sie mir bitte die Uhrzeit mitteilen?,get_time,de
+4051166,No Intent,unknown
+Dhj7LdRTzvGIQcFMCaciMKVug5rK2iwoBU5MJWGyv45eN5RL8ByAzgqV3fpskL8itFR9xe4Zhp9LAR2BiqQCFpnBCQUIxJ,No Intent,unknown
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.,No Intent,unknown
+Есть ли у вас какие-либо детали о сегодняшней дате?,get_date,ru
+She sells seashells by the seashore.,No Intent,unknown
+4909356103781945539,No Intent,unknown
+10037622,No Intent,unknown
+Пока на этом!,goodbye,ru
+DesP7jPGT9WFvXW2Idcamo26a9EOSazorc2HmOeEFRWr4KRETiQlnLMW5r,No Intent,unknown
+293023523066379,No Intent,unknown
+Do you know what time it is at the moment?,get_time,en
+Grüß Gott!,greet,de
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.,No Intent,unknown
+66016836,No Intent,unknown
+"Не могли бы вы, пожалуйста, сказать мне, какое сегодня число?",get_date,ru
+Каково время в данный момент?,get_time,ru
+Tschüss für jetzt!,goodbye,de
+The quick brown fox jumps over the lazy dog.,No Intent,unknown
+"Hey, how's your week been?",greet,en
+The quick brown fox jumps over the lazy dog.,No Intent,unknown
+Könnten Sie mir bitte das heutige Datum mitteilen?,get_date,de
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.,No Intent,unknown
+6w5xG9poo4MAe2Nj7DeGokJvfxu5GOItgAdpHm2a,No Intent,unknown
+11544452675810,No Intent,unknown
+The quick brown fox jumps over the lazy dog.,No Intent,unknown
+0IMepNCpbS58hqZqFw5iOmkcrrs40,No Intent,unknown
+The quick brown fox jumps over the lazy dog.,No Intent,unknown
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",No Intent,unknown
+unknown:What's today's date looking like?,get_date,unknown
+"Haben Sie eine Sekunde Zeit, um mir zu sagen, wie spät es ist?",get_time,de
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.,No Intent,unknown
+2269835,No Intent,unknown
+What's the time looking like?,get_time,en
+651007231150844074,No Intent,unknown
+The quick brown fox jumps over the lazy dog.,No Intent,unknown
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.,No Intent,unknown
+Wie sieht es mit der Uhrzeit aus?,get_time,de
+059652826,No Intent,unknown
+11544452675810,No Intent,unknown
+looe1uvv3HK4z1jI8u7T9dv7QaWcS7vQ41xFjR9mZfZHNjtp,No Intent,unknown
+What's the date according to your calendar today?,get_date,en
+Wie sieht das Datum auf Ihrem Kalender für heute aus?,get_date,de
+"unknown:Bis später, Alligator!",goodbye,unknown
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",No Intent,unknown
+"Pardon me, could you share the current time with me?",get_time,en
+"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",No Intent,unknown
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.,No Intent,unknown
+397239449,No Intent,unknown
+"Schön, dich zu sehen!",greet,de
+4438226894499850872,No Intent,unknown
+"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",No Intent,unknown
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.,No Intent,unknown
+"unknown:Hallo, wie geht es dir gerade?",greet,unknown
+unknown:Arrivederci!,goodbye,unknown
+Wie lautet der Datumstempel für heute?,get_date,de
+How's it going?,greet,en
+"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",No Intent,unknown
+299283,No Intent,unknown
+Gut getroffen!,greet,de
+"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",No Intent,unknown
+Oufpd3g1T6EujqYudUr2t69rn6NnTEJ8XsIYOzSvVe2QAWoelgenn1YcjJyJ0s2MtYb6VuscM6LbxY83QwUk3zY8vAlp9HnylbI,No Intent,unknown
+6071932391,No Intent,unknown
+unknown:Как ваши дела?,greet,unknown
+The quick brown fox jumps over the lazy dog.,No Intent,unknown
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+Доброе утро!,greet,ru
+99027019227267,No Intent,unknown
+"unknown:Bis später, Alligator!",goodbye,unknown
+4638567990306105819,No Intent,unknown
+Bis bald!,goodbye,en
+3646759,No Intent,unknown
+"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",No Intent,unknown
+Would you be so kind as to let me know the time?,get_time,en
+"Schön, dich kennenzulernen!",greet,de
+unknown:Могу я спросить сегодняшнюю дату?,get_date,unknown
+773805265189,No Intent,unknown
+"Excuse me, do you have the time?",get_time,en
+Can you share with me the date for today?,get_date,en
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.,No Intent,unknown
+The quick brown fox jumps over the lazy dog.,No Intent,unknown
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",No Intent,unknown
+66016836,No Intent,unknown
+Peace out!,goodbye,en
+O1NPryJ827ScaGZZ50gTmGyXemFrjOlgKhsy17GHO97Ll8E2kff,No Intent,unknown
+What's the date stamp for today?,get_date,en
+She sells seashells by the seashore.,No Intent,unknown
+See you around!,goodbye,en
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.,No Intent,unknown
+The quick brown fox jumps over the lazy dog.,No Intent,unknown
+40726777972755,No Intent,unknown
+Ejse28jw5oEe6yi8qKeYGm,No Intent,unknown
+Auf Wiedersehen für jetzt!,goodbye,de
+All work and no play makes Jack a dull boy.,No Intent,unknown
+It's great to see you!,greet,en
+Würden Sie mir das heutige Datum verraten?,get_date,de
+Keep the faith!,goodbye,en
+Что нового?,greet,ru
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.,No Intent,unknown
+"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",No Intent,unknown
+61413700315,No Intent,unknown
+Haben Sie gerade die Uhrzeit parat?,get_time,de
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+Do you have the time handy?,get_time,en
+"Привет, что у вас нового?",greet,ru
+k56PYHv2VCWIvlNNUvrRmL8zmHhU5Gih6kdJo0KoVYZJLKpoTKc8ipyFQ6nJ1Jk6pScNMSp6M8JgvYVbsetl,No Intent,unknown
+1339087700017442,No Intent,unknown
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",No Intent,unknown
+5431973790389493,No Intent,unknown
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.,No Intent,unknown
+She sells seashells by the seashore.,No Intent,unknown
+"Сколько времени, пожалуйста?",get_time,ru
+"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",No Intent,unknown
+All work and no play makes Jack a dull boy.,No Intent,unknown
+What's the date on the calendar today?,get_date,en
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.,No Intent,unknown
+64793,No Intent,unknown
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",No Intent,unknown
+"unknown:Привет, как ваши дела?",greet,unknown
+B0PXE8cV9tpUvB3BpLvUP,No Intent,unknown
+"unknown:Hi, how's your day?",greet,unknown
+62513696186668,No Intent,unknown
+"Hey, what's new?",greet,en
+Можете ли вы сказать мне сегодняшнюю дату?,get_date,ru
+gLrGNPF3QUB2n4iYaCP6Px53pRU4Ck148BonFOQNHFB9DlqBOKbXWpQvHQCyCcH8SMuva9ea2BhOD7BXlMRkdtlJUgRE,No Intent,unknown
+DDikNeQcJZ6FygQAeUcc2Tv5X6qK,No Intent,unknown
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.,No Intent,unknown
+Который час по вашим часам?,get_time,ru
+7886451,No Intent,unknown
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.,No Intent,unknown
+"To be or not to be, that is the question.",No Intent,unknown
+Können Sie mir das Datum für heute mitteilen?,get_date,de
+How are things with you?,greet,en
+The quick brown fox jumps over the lazy dog.,No Intent,unknown
+Всего наилучшего!,goodbye,ru
+unknown:Берегите себя!,goodbye,unknown
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.,No Intent,unknown
+Gut getroffen!,greet,de
+M9rn3WFfNpfJTBbFkhmznauKbug1isIqYtqkbQSwPO8N2rPYW7K7DEA0APchxx3sFDhsSL6lU9B4G,No Intent,unknown
+57291750782,No Intent,unknown
+unknown:Как дела?,greet,unknown
+"Есть ли у вас представление, какое сегодня число?",get_date,ru
+Would you mind sharing the time with me?,get_time,en
+13vmtFgiRV5T0lEUPCAe1MfhJsxHdVGtA0JGsnTqD5ATFpm6,No Intent,unknown
+205840254462,No Intent,unknown
+7J0UegY9OCsxY37nKZ3yOSGJKeEqYs5LRFpPO4J63z5ZD37IAa8sq3FZAMGCrqj,No Intent,unknown
+"unknown:Hallo, was hast du gemacht?",greet,unknown
+Сохраняйте веру!,goodbye,ru
+o3AE5sede5NH9thS44SqvGQfspSmuAMwZ,No Intent,unknown
+2475055429,No Intent,unknown
+"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",No Intent,unknown
+The quick brown fox jumps over the lazy dog.,No Intent,unknown
+"Сколько времени, пожалуйста?",get_time,ru
+"Could you check the time for me, please?",get_time,en
+Увидимся позже!,goodbye,ru
+"Привет, как ваша неделя проходит?",greet,ru
+До свидания на данный момент!,goodbye,ru
+Keep the faith!,goodbye,en
+O6Iwh00Yvd6Rnf08kmwP8fLsp1GPSsp2fs3HukyTx8yFba91F4Oj2VxvJpLzm5H5P,No Intent,unknown
+91008784,No Intent,unknown
+Take good care!,goodbye,en
+She sells seashells by the seashore.,No Intent,unknown
+"Entschuldigung, könnten Sie mir die aktuelle Uhrzeit sagen?",get_time,de
+looe1uvv3HK4z1jI8u7T9dv7QaWcS7vQ41xFjR9mZfZHNjtp,No Intent,unknown
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.,No Intent,unknown
+zK73pvr9Qnq5eA1GZTieE1EpatpSKBfS2Xj8F60AyVasUjBgUKnCSjZqk6rfqQZfC9ADYtCQgTbB,No Intent,unknown
+"Hey, how's your week been?",greet,en
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.,No Intent,unknown
+Вы не могли бы сказать мне время?,get_time,ru
+"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",No Intent,unknown
+"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",No Intent,unknown
+Mind telling me what time it is?,get_time,en
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.,No Intent,unknown
+May I ask for the current time from you?,get_time,en
+What's the date stamp for today?,get_date,en
+579225629249,No Intent,unknown
+"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",No Intent,unknown
+Haben Sie das Datum für heute zur Hand?,get_date,de
+"unknown:Привет, как у вас дела?",greet,unknown
+unknown:Stay safe!,goodbye,unknown
+Do you happen to know what today's date is?,get_date,en
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.,No Intent,unknown
+V1JQtvHOK4n04Yy4QAJGRIsBfd7SuK6x8mblBnSuMZhbf0DBnH6JM,No Intent,unknown
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+"unknown:Привет, как ваши дела?",greet,unknown
+Keep the faith!,goodbye,en
+76547760763,No Intent,unknown
+54734961015253,No Intent,unknown
+She sells seashells by the seashore.,No Intent,unknown
+69489164809,No Intent,unknown
+Darf ich nach der Uhrzeit fragen?,get_time,de
+She sells seashells by the seashore.,No Intent,unknown
+76572839440342047589,No Intent,unknown
+1wbpCwFfxfI0DAih2oSKFd5Ee4WO9wjlZ3SSPZS0h20nZ,No Intent,unknown
+Catch you on the flip side!,goodbye,en
+579225629249,No Intent,unknown
+Wie spät ist es Ihrer Meinung nach?,get_time,de
+"Hi, how are you coping?",greet,en
+22111288993722173,No Intent,unknown
+До бесконечности и дальше!,goodbye,ru
+unknown:До свидания!,goodbye,unknown
+What's happening?,greet,en
+pxrp1gDuZTZJ97QhJOvqlMrLLHRbaOpVUUwk1vQG6FtJ65xAcOdZTQ1PMhaJnXZqybUF5S1oFQOcn3jLpn3hVuoNC,No Intent,unknown
+unknown:Yo!,greet,unknown
+"unknown:Привет, как ваши дела?",greet,unknown
+"Можете ли вы, пожалуйста, предоставить мне сегодняшнюю дату?",get_date,ru
+"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",No Intent,unknown
+61413700315,No Intent,unknown
+Wie spät ist es bitte?,get_time,de
+13vmtFgiRV5T0lEUPCAe1MfhJsxHdVGtA0JGsnTqD5ATFpm6,No Intent,unknown
+"Entschuldigung, haben Sie die Uhrzeit?",get_time,de
+"To be or not to be, that is the question.",No Intent,unknown
+"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",No Intent,unknown
+Can you let me know what date it is today?,get_date,en
+"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",No Intent,unknown
+Bis wir uns wiedersehen!,goodbye,de
+mIny0NQu2iMDjX0MUW7Aj4ptOXE77GNRWI9VuMKi9iYa9w7y1D6z0nx0TqZNApk1gUaV,No Intent,unknown
+809380666363327,No Intent,unknown
+Guten Abend!,greet,de
+0157516821620,No Intent,unknown
+The quick brown fox jumps over the lazy dog.,No Intent,unknown
+Do you happen to have the time on you?,get_time,en
+May I ask for the current time from you?,get_time,en
+"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",No Intent,unknown
+What's the time according to your watch?,get_time,en
+4438226894499850872,No Intent,unknown
+9M08iJb9M3YuJkWiASUrg320yLfdLIlMEBp0k60yuTVun0zMJj7ncqV0Xz15mImbDs4J,No Intent,unknown
+unknown:Hasta la vista!,goodbye,unknown
+Рад вас видеть!,greet,ru
+Good afternoon!,greet,en
+40157831846,No Intent,unknown
+08996479865976504,No Intent,unknown
+unknown:Yo!,greet,unknown
+4898465463978,No Intent,unknown
+SOXRLgwqIq4FVz3MMkFcQWxW5zakcJh3NayLzRC4nIw25r38VaBb5wJrDfC1Eu,No Intent,unknown
+"Есть ли у вас возможность узнать, который час?",get_time,ru
+C0eYpOTBzzj73vwfprBehEXV0PSd1Bcyq2WphSTVeQkd54f23RQDVflrCR6camm9w4oQupr5DFhnye,No Intent,unknown
+"Wissen Sie zufällig, wie spät es ist?",get_time,de
+Bis zur Unendlichkeit und noch weiter!,goodbye,de
+The quick brown fox jumps over the lazy dog.,No Intent,unknown
+66016836,No Intent,unknown
+Can you let me know what time it is?,get_time,en
+Могу ли я узнать время?,get_time,ru
+Пока на этом!,goodbye,ru
+Хорошего дня!,goodbye,ru
+HVULFoMMSlp2l7IdIAsUC6tH6dh2q88fj02yioKBGWLtm6Be9G99jMlEFURZBrFMRn0Hbi286gA8jJax86L,No Intent,unknown
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+Keep in touch!,goodbye,en
+"Schön, dich anzutreffen!",greet,de
+See you later!,goodbye,en
+53793745,No Intent,unknown
+Увидимся!,goodbye,ru
+Не могли бы вы любезно сказать мне время?,get_time,ru
+"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",No Intent,unknown
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.,No Intent,unknown
+9335555887,No Intent,unknown
+unknown:Адьос!,goodbye,unknown
+64793,No Intent,unknown
+Gibt es Neuigkeiten über das heutige Datum?,get_date,de
+aAIA9AGZB6C7RVavRyN8RU9dge0HK1ZhFilOz,No Intent,unknown
+All work and no play makes Jack a dull boy.,No Intent,unknown
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",No Intent,unknown
+"To be or not to be, that is the question.",No Intent,unknown
+unknown:Могу я спросить сегодняшнюю дату?,get_date,unknown
+Could you clue me in on today's date?,get_date,en
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+Можете ли вы проверить и подтвердить сегодняшнюю дату?,get_date,ru
+"Hey, how are you?",greet,en
+4909356103781945539,No Intent,unknown
+"Hey, was gibt's Neues?",greet,en
+00854402178,No Intent,unknown
+1340118929,No Intent,unknown
+280409997712,No Intent,unknown
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+Mind telling me what time it is?,get_time,en
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.,No Intent,unknown
+"To be or not to be, that is the question.",No Intent,unknown
+0437284,No Intent,unknown
+"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",No Intent,unknown
+unknown:Well met!,greet,unknown
+"Hallo, nett dich kennenzulernen!",greet,de
+Pass auf dich auf!,goodbye,de
+ECxhg4GCceVfks1awvwqbNn482An1H4sfiJO3nWX8vOcU2W5XZYd9FPvZm4fuHWz3ssq85Xm0Tdie7uzfvuTMQ7ZQ0AqJWAD,No Intent,unknown
+"Schön, dich anzutreffen!",greet,de
+unknown:Adios!,goodbye,unknown
+JYYivhxdoppCxWmMcS22,No Intent,unknown
+Mach's gut!,goodbye,en
+Might I ask for today's date?,get_date,en
+s6zIUNEomiAMHMqb0gN2KK2mJL452kcgXMunzwj1Rd4e47kMeEEDewnU74RczwIfON4oQ1Tu,No Intent,unknown
+The quick brown fox jumps over the lazy dog.,No Intent,unknown
+HCFPxsdKQaFX0skjV721L4pb8fO3ag6KYCuMIckciuP7e3b85JbIyocIvyiSyGgrzYIHAgJG,No Intent,unknown
+Wie läuft es bei dir?,greet,de
+61413700315,No Intent,unknown
+sVG2bGUmbAyugr3tNdqHDX6,No Intent,unknown
+unknown:Howdy!,greet,unknown
+Который час по вашим часам?,get_time,ru
+OJOFFHfmYHM8yygCRgpCUKuQcovdP5xJBPAzS04eaQ51r2O6lTmEhV625DOKStmqlOc42Oa1SV7d,No Intent,unknown
+Вы не могли бы поделиться сегодняшней датой со мной?,get_date,ru
+Wie läuft dein Tag bisher?,greet,de
+Mach's gut!,goodbye,en
+All work and no play makes Jack a dull boy.,No Intent,unknown
+29996101096201189256,No Intent,unknown
+935652072454502,No Intent,unknown
+"У вас есть секунда, чтобы сказать мне, который час?",get_time,ru
+Würden Sie mich bitte über das heutige Datum informieren?,get_date,de
+C0eYpOTBzzj73vwfprBehEXV0PSd1Bcyq2WphSTVeQkd54f23RQDVflrCR6camm9w4oQupr5DFhnye,No Intent,unknown
+Catch you later!,goodbye,en
+Pass gut auf dich auf!,goodbye,de
+V9fzXrMJNi63gpD0IW5O2srNipW4QVSFG8enEnRMotGv4MWbnzk4ITL36Cqa7Wmpso1,No Intent,unknown
+Bis später!,goodbye,de
+t2dWK8mAPagaHkunq43pfIGar0Mk0RXhyBetpuYz46ngVcu3Nbf1FUcSMWKjeRx1WBBKO415W,No Intent,unknown
+67735322071210903,No Intent,unknown
+Any idea about today's date?,get_date,en
+O6Iwh00Yvd6Rnf08kmwP8fLsp1GPSsp2fs3HukyTx8yFba91F4Oj2VxvJpLzm5H5P,No Intent,unknown
+Grüße!,greet,de
+She sells seashells by the seashore.,No Intent,unknown
+Jq5KcyUJpzIVLvdo4Bbb3uxB7TG,No Intent,unknown
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.,No Intent,unknown
+unknown:Покедова!,goodbye,unknown
+61183514165789789,No Intent,unknown
+7rWxywBHdgM8t0K0CDF5fhYM4up4rMIvmQ3vbAnFAGl4SnvmMEymuIJeL2AwwWIJ5IiKxkbqzs1CcQIIQhA5FtcBjTwZ9,No Intent,unknown
+The quick brown fox jumps over the lazy dog.,No Intent,unknown
+Good to meet you!,greet,en
+0493452331,No Intent,unknown
+Не могли бы вы сказать мне сегодняшнюю дату?,get_date,ru
+Would you be able to tell me the time right now?,get_time,en
+The quick brown fox jumps over the lazy dog.,No Intent,unknown
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.,No Intent,unknown
+Could you please inform me of the time?,get_time,en
+"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",No Intent,unknown
+Salutations!,greet,fr
+"Можете ли вы уточнить, какая сегодня дата?",get_date,ru
+21680230889888,No Intent,unknown
+Wie geht es dir heute?,greet,de
+Оставайтесь на связи!,goodbye,ru
+unknown:Yo!,greet,unknown
+Any insights on today's date?,get_date,en
+3074670296,No Intent,unknown
+Could you inform me of the date today?,get_date,en
+Увидимся!,goodbye,ru
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.,No Intent,unknown
+Was ist los?,greet,en
+YE4UD8KxjhbFaqLjaZGjcRmXdgvmju3PjYYOe,No Intent,unknown
+What's the time according to your watch?,get_time,en
+"unknown:Привет, как у вас дела?",greet,unknown
+0662636,No Intent,unknown
+Как ваши дела сегодня?,greet,ru
+She sells seashells by the seashore.,No Intent,unknown
+"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",No Intent,unknown
+Could you tell me what time it is?,get_time,en
+Можете ли вы сообщить мне текущее время?,get_time,ru
+99027019227267,No Intent,unknown
+9307195049853423926,No Intent,unknown
+"Привет, как вам жизнь?",greet,ru
+Wir sehen uns!,goodbye,de
+unknown:Adios!,goodbye,unknown
+4909356103781945539,No Intent,unknown
+11544452675810,No Intent,unknown
+unknown:Stay safe!,goodbye,unknown
+До скорого!,goodbye,ru
+64853562142,No Intent,unknown
+JrwHNh4rpRr4B1wqTgiU6POR6jlCiVZNVcUqNN,No Intent,unknown
+X0OIWIpcDaSBIfI6t6Q5oPo6K4AK9T1ufdSu3C5Lo,No Intent,unknown
+Any clue about the date today?,get_date,en
+Guten Tag!,greet,de
+The quick brown fox jumps over the lazy dog.,No Intent,unknown
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+Frieden und Liebe!,goodbye,de
+"Wissen Sie, welches Datum heute ist?",get_date,de
+"Привет, как вам жизнь?",greet,ru
+unknown:Hiya!,greet,unknown
+She sells seashells by the seashore.,No Intent,unknown
+"To be or not to be, that is the question.",No Intent,unknown
+How much wood would a woodchuck chuck if a woodchuck could chuck wood?,No Intent,unknown
+651007231150844074,No Intent,unknown
+Frieden und Liebe!,goodbye,de
+4329744183,No Intent,unknown
+What's the time according to your watch?,get_time,en
+627881976540568939,No Intent,unknown
+"unknown:Hi, how's your day?",greet,unknown
+Bdpof7VNdiTcBusxz1vTh9ZGmeEwsJFdgEi9p0m,No Intent,unknown
+"Привет, как ваша неделя проходит?",greet,ru
+All work and no play makes Jack a dull boy.,No Intent,unknown
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",No Intent,unknown
+What's the date stamp for today?,get_date,en
+28909585175,No Intent,unknown
+Что нового?,greet,ru
+Lovely to see you!,greet,en
+Можете ли вы помочь мне и проверить время?,get_time,ru
+9Kar0Iioa7CfHSX43qfdbbtrl3DqYQu0dRmhXtoETMoazLBFUM2trJ6VFJZao50xdAOjadF2LlsqWr,No Intent,unknown
+"unknown:Hi, how's your day?",greet,unknown
+O6Iwh00Yvd6Rnf08kmwP8fLsp1GPSsp2fs3HukyTx8yFba91F4Oj2VxvJpLzm5H5P,No Intent,unknown
+73987693531,No Intent,unknown
+Bye for now!,goodbye,en
+unknown:Farewell!,goodbye,unknown
+"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",No Intent,unknown
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.,No Intent,unknown
+813618,No Intent,unknown
+"What's the current date, if you don't mind me asking?",get_date,en
+OiWFfynuBrSPHT4rN5jPiNzHovsOgeek5i5O4FVSJ,No Intent,unknown
+4794214,No Intent,unknown
+Could you do me a favor and check the time?,get_time,en
+"To be or not to be, that is the question.",No Intent,unknown
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.,No Intent,unknown
+"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",No Intent,unknown
+Доброе утро!,greet,ru
+"Hi, what have you been up to?",greet,en
+Any idea what the date is today?,get_date,en
+PH8q3BVzzzPs5yY3uELXfmoPehomxHnQJDnyeVr,No Intent,unknown
+Auf Wiedersehen!,goodbye,de
+"Haben Sie eine Vorstellung, welches Datum heute ist?",get_date,de
+Доброе утро!,greet,ru
+qV6UeipXGY2fisAT7hgXDGPW91wmXu1kCMjHIjvEZydzwCpDZrcqKasTu7mlZ8g,No Intent,unknown
+У вас есть время на руках?,get_time,ru
+"unknown:Na, hallo!",greet,unknown
+unknown:Well met!,greet,unknown
+227856,No Intent,unknown
+"Вы не могли бы сказать мне, который час?",get_time,ru
+What's up?,greet,en
+"Было бы здорово, если бы вы могли мне сказать, который час?",get_time,ru
+3440931556388,No Intent,unknown
+"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",No Intent,unknown
+Рад вас видеть!,greet,ru
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",No Intent,unknown
+0531959,No Intent,unknown
+She sells seashells by the seashore.,No Intent,unknown
+Будь здоров!,goodbye,ru
+unknown:Привет!,greet,unknown
+Do you know what time it is at the moment?,get_time,en
+привет,greet,
+сколько времени,get_time,
+Привет,greet,
+Привет,greet,
+Привет,greet,
+Приветик,greet,
+Как дела,greet,
+Привет,greet,
+Приает,greet,
+Привет,greet,
+Я проснулся,greet,
+Вечер в хату,greet,
+Сколько время?,get_time,
+Какой сегодня день,get_date,
+Дратути,greet,
+Хеллоу,greet,
+Пока,goodbye,
+Привет,greet,
+Добрый день,greet,
+Который час,get_time,
+Здарова,greet,
+Дарова,greet,
+Wie spät ist es?,get_time,
+"Angesichts der Tatsache, wie der Tag bereits fortgeschritten ist, frage ich mich, ob es noch sinnvoll ist, diesen Termin zu verschieben.",get_time,
+"С учетом того, как день уже продвинулся, стоит ли еще обсуждать возможность переноса нашей встречи?",get_time,
+"привет ботяра, сколько щас времени?",get_time,
+пока,goodbye,
+"Weißt du, wie viel Uhr es jetzt ist?",get_time,
+"Wenn man bedenkt, wie weit der Abend fortgeschritten ist, könnte es vielleicht an der Zeit sein, sich langsam zurückzuziehen.",goodbye,
+"Given how the day has progressed, it might be wise to consider winding down our activities.",goodbye,
+зачем регать ранкед?,No Intent,
+Амир хватит писать говнокод,No Intent,

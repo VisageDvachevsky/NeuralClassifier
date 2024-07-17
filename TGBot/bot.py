@@ -18,7 +18,8 @@ class TelegramBot:
             'get_time': 'узнать время',
             'get_date': 'узнать дату',
             'greet': 'приветствие',
-            'goodbye': 'прощание'
+            'goodbye': 'прощание',
+            'No Intent': 'Нет намерения' 
         }
         self.setup_handlers()
 
@@ -91,13 +92,17 @@ class TelegramBot:
             except Exception as e:
                 self.handle_error(message, e)
 
+
         def process_expected_intent(message, user_input, response, rating, intent, confidence, bot_reply, msg_rating, msg_intent):
             try:
                 expected_intent = message.text
+                if expected_intent not in self.INTENTS:
+                    self.bot.reply_to(message, "Некорректное намерение. Пожалуйста, попробуйте еще раз.")
+                    return
+
                 self.assistant_manager.save_user_feedback(user_input, response, rating, intent, expected_intent, confidence)
 
                 thank_you_msg = self.bot.send_message(message.chat.id, "Спасибо за ваш отзыв!", reply_markup=ReplyKeyboardRemove())
-
 
                 time.sleep(1)
                 self.bot.delete_message(message.chat.id, bot_reply.message_id)
@@ -107,6 +112,7 @@ class TelegramBot:
                 self.bot.delete_message(message.chat.id, message.message_id)
             except Exception as e:
                 self.handle_error(message, e)
+
 
     def log_admin_activity(self, activity, user_id):
         logger.info(f"Admin Activity: {activity} by User ID: {user_id}")
